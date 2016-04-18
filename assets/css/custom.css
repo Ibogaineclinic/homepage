@@ -1,7 +1,10 @@
 /* Add here all your css styles (customizations) */
-
+html {
+    font-size: 16px;
+}
 body {
     overflow-x: hidden;
+    font-size: 16px;
 }
 .display-none {
     display: none !important
@@ -432,30 +435,63 @@ h2 {
     margin: 0;
 }
 .responsive-video {
-position: relative;
-padding-bottom: 56.25%;
-padding-top: 60px; overflow: hidden;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 60px;
+    overflow: hidden;
+    margin-top: 40px;
 }
-
-
 .responsive-video iframe,
 .responsive-video object,
 .responsive-video embed {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.interactive-slider-v2 h2 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 80px;
+    text-transform: uppercase;
+}
+.interactive-slider-v2 {
+    background-size: cover;
+    background-position: center center;
 }
 .interactive-slider-v2.img-ibogaine {
     background: url(../img/banners/ibogaine.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
-body.page h2, body.page h1 {
+.interactive-slider-v2.img-amenities {
+    background: url(../img/banners/coast-playa-del-carmen.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.interactive-slider-v2.img-ibogaine-molecule {
+    background: url(../img/logofiles/500px-Ibogaine.svg.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.interactive-slider-v2.img-exsperience {
+    background: url(../img/banners/Universe-Mystery-Wallpaper.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+main.page h2,
+main.page h1,
+main.page h3 {
     margin: 40px 0 10px;
+    font-weight: 600;
 }
 form input.button.btn.btn-block.btn-lg {
     margin-top: 50px;
     /* height: 100%; */
+}
+.no-banner .content {
+    padding-top: 100px;
+    padding-bottom: 40px;
 }
