@@ -34,13 +34,6 @@
     <link rel="stylesheet" href="assets/plugins/line-icons-pro/styles.css">
     <link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
 
-    <!--
-    <link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
-    <link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css">
--->
-
-    <!--        <link rel="stylesheet" href="assets/plugins/animated-headline/css/animated-headline.css">-->
-
     <!-- CSS Theme -->
     <link rel="stylesheet" href="assets/css/wealth.style.css">
     <link rel="stylesheet" href="assets/css/header-v6.css">
@@ -82,7 +75,7 @@
                         <!-- Navbar Brand -->
                         <div class="navbar-brand">
                             <a class="" href="#body" alt="home logo">
-                                <img src="http://ibogaineclinic.com/wp-content/uploads/2014/06/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
+                                <img src="./assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
                             </a>
                         </div>
 
@@ -145,7 +138,7 @@
             <section id="feature2" data-type="background" data-speed="5">
 
                 <div id="video-container" class="hidden-xs">
-                    <video autoplay="" id="video" loop="false" poster="https://ibogaineclinic.com/wp-content/uploads/2016/03/videostartimage.png">
+                    <video autoplay="" id="video" loop="false" poster="./assets/img/videostartimage.png">
                         <source src="https://ibogaineclinic.com/wp-content/uploads/2016/03/Activities20in20Playa20del20Carmen20ibogaine20by20David20Dardashti.mp4" type="video/mp4" autoplay="">
                         <source src="https://ibogaineclinic.com/wp-content/uploads/2016/03/Activities20in20Playa20del20Carmen20ibogaine20by20.webm" type="video/webm">
                         <source src="https://ibogaineclinic.com/wp-content/uploads/2016/03/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
@@ -521,9 +514,25 @@
             </div>
         </section>
         <!-- End Diet Section -->
-        <span class="row" id="contact-us"></span>
+        <span class="row" id="contact-us">  
+<!--
+        <div id="submit-success" class="alert alert-success alert-dismissible collapse" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+        Message received! I'll be in touch.
+        </div>
+        <div id="submit-errors" class="alert alert-danger alert-dismissible collapse" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+            It looks like there was an error submitting the form. Please try again later.
+        </div>
+-->
+        </span>
+
+
         <!--Contact Us Form-->
-        <form action="https://ibogaineclinic.com/wp-content/themes/BootstrapWP-child/contact-process.php" method="post" id="sky-form3" class="sky-form">
+
+
+        <form method="post" id="sky-form3" class="sky-form" action="https://formspree.io/theullrich@gmail.com">
+            <input type="hidden" name="_next" value="https://ibogaineclinic.github.io/homepage/#contact-us" />
             <header>Contact Us</header>
 
             <fieldset>
@@ -532,21 +541,23 @@
                         <label class="label">Name</label>
                         <label class="input">
                             <i class="icon-append fa fa-user"></i>
-                            <input id="name" type="text" name="name">
+                            <input id="name" type="text" name="name" required>
+                            <input type="hidden" name="_subject" value="Website homepage contact" />
                         </label>
                     </div>
                     <div class="col col-4">
                         <label class="label">E-mail</label>
                         <label class="input">
                             <i class="icon-append fa fa-envelope-o"></i>
-                            <input type="email" name="email" id="email">
+                            <input type="email" name="_replyto" id="email" required>
                         </label>
                     </div>
                     <div class="col col-4">
                         <label class="label">Phone Number</label>
                         <label class="input">
                             <i class="icon-append fa fa-phone"></i>
-                            <input type="text" id="phone" name="phone">
+                            <input type="number" id="phone" name="phone" required>
+                            <input type="text" name="_gotcha" style="display:none" />
                         </label>
                     </div>
                 </div>
@@ -555,21 +566,16 @@
                         <label class="label">Message</label>
                         <label class="textarea">
                             <i class="icon-append fa fa-comment"></i>
-                            <textarea rows="4" name="message" id="message"></textarea>
+                            <textarea rows="4" name="message" id="message" required></textarea>
                         </label>
                     </div>
-                    <!--                    <div class="col col-4">
-                        <label class="label">Enter characters</label>
-                        <label class="input input-captcha">
-                            <img src="https://ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/captcha/image.php?&lt;?php echo time(); ?&gt;" width="100" height="32" alt="Captcha image">
-                            <input type="text" maxlength="6" name="captcha" id="captcha2">
-                        </label>
-                    </div>-->
+                    <div class="col col-4">
+                        <input type="submit" value="Send" class="button btn">
+                    </div>
                 </div>
             </fieldset>
             <div class="row">
                 <footer class="col col-4">
-                    <button onclick="clicky.goal( 'Clicked contact' );" type="submit" name="submit" class="button contact-us ">Contact us</button>
                     <div class="message">
                         <i class="rounded-x fa fa-check"></i>
                         <p>Your message was successfully sent to the Original Ibogaine CLinic!</p>
@@ -577,9 +583,8 @@
                 </footer>
             </div>
         </form>
+
         <!--End Contact Us Form-->
-
-
 
 
         <!-- Footer -->
@@ -634,59 +639,30 @@
 
 
     <!-- JS Global Compulsory -->
-    <script src="assets/plugins/jquery/jquery.min.js"></script>
-    <script src="assets/plugins/jquery/jquery-migrate.min.js"></script>
-    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./assets/plugins/jquery/jquery.min.js"></script>
+    <script src="./assets/plugins/jquery/jquery-migrate.min.js"></script>
+    <script src="./assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- JS Implementing Plugins -->
-    <script src="assets/plugins/smoothScroll.js"></script>
-    <script src="assets/plugins/jquery.easing.min.js"></script>
-    <script src="assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
-    <script src="assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
-    <script src="assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
-    <script src="assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+    <script src="./assets/plugins/smoothScroll.js"></script>
+    <script src="./assets/plugins/jquery.easing.min.js"></script>
+    <!--    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>-->
 
+
+    <script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
+    <script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
+    <script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
+    <script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
 
 
     <!-- JS Page Level -->
-    <script src="assets/js/app.js"></script>
-    <script src="assets/js/custom.js"></script>
+    <script src="./assets/js/app.js"></script>
+    <script src="./assets/js/custom.js"></script>
 
-    <!--Share this-->
-    <!--
-        <script charset="utf-8" type="text/javascript">
-            var switchTo5x = true;
-        </script>
-        <script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-        <script charset="utf-8" type="text/javascript">
-            stLight.options({
-                "publisher": "21349120-3c38-427f-b958-09905655ca40"
-            });
-            var st_type = "wordpress4.4.2";
-        </script>
-        <script charset="utf-8" type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
-        <script charset="utf-8" type="text/javascript">
-            var h_options = {
-                "publisher": "21349120-3c38-427f-b958-09905655ca40",
-                "position": "left",
-                "chicklets_params": {
-                    "twitter": {
-                        "st_via": "ibogainedavidd"
-                    },
-                    "instagram": {
-                        "st_username": ""
-                    }
-                },
-                "chicklets": {
-                    "items": ["facebook", "twitter", "linkedin", "pinterest"]
-                }
-            };
-            var st_hover_widget = new sharethis.widgets.hoverbuttons(h_options);
-        </script>
--->
+
 
     <!--[if lt IE 10]>
-	<script src="assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
+	<script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
 <![endif]-->
 </body>
 
