@@ -1,0 +1,433 @@
+/* Add here all your css styles (customizations) */
+
+body {
+    overflow-x: hidden;
+}
+.display-none {
+    display: none !important
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    margin: 0px;
+}
+.features-item--big {
+    overflow: hidden;
+    position: relative;
+    background: url(../img/ibogaine-by-david-dardashti-before-and-after-9-1024x576.jpg) no-repeat scroll 50% 0 / cover;
+    background-size: 100% 100%;
+    transition: all .5s;
+}
+div.team-big img {
+    max-height: 410px;
+    /*    min-height: 400px;*/
+    width: auto;
+}
+.team-small li a img {
+    max-height: 90px;
+    max-width: 90px;
+}
+.food-options img {
+    max-height: 200px;
+}
+#feature2 {
+    background: url("https://ibogaineclinic.com/wp-content/uploads/2016/03/videostartimage.png") 0% 15% no-repeat!important;
+    -webkit-background-size: auto 800px;
+    background-size: auto 800px;
+    background-size: cover;
+    margin: 0 auto;
+    /* min-height: 500px; */
+    min-height: 750px;
+    height: auto;
+    max-width: 2920px;
+    position: relative;
+    text-align: center;
+    width: auto;
+    z-index: 0;
+}
+#video_pattern {
+    background: rgba(51, 90, 117, 1);
+    /*    background: url("../img/black-criss-cross.png") 0 0 repeat;*/
+    opacity: .25;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 2!important;
+}
+#video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%!important;
+    min-height: 100%;
+    height: auto;
+    z-index: 1!important;
+    overflow: hidden;
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+#feature article,
+#feature2 article {
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    top: 90px;
+    z-index: 10;
+}
+#feature2 article {
+    top: 180px;
+}
+#feature2 h2,
+#feature2 h1 {
+    color: white;
+    font-weight: 500;
+    margin-top: 0;
+    font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#feature2 h1 {
+    font-size: 38px;
+    margin-bottom: 25px;
+    margin-top: -20px;
+}
+#feature2 h2 {
+    font-size: 25px;
+}
+#feature2 .cta {
+    width: 710px;
+    margin: 40px auto 0 auto;
+}
+#feature2 .cta-2 {
+    width: 710px;
+    margin: 0 auto 0 auto;
+}
+#feature2 .cta div {
+    float: left;
+}
+#feature2 .text {
+    background: #5a5a51;
+    background: rgba(0, 0, 0, .5);
+    border: 3px solid;
+    border-color: white;
+    border-color: rgba(255, 255, 255, .8);
+    color: white;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 12px 20px;
+    float: left;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+#feature2 .arrow {
+    font-size: 20px;
+    margin: 10px 0px;
+    opacity: .8;
+}
+#feature2 .icon-chevron-sign-down {
+    display: none!important
+}
+#feature2 div.phone {
+    color: white;
+    font-size: 25px;
+    font-weight: 200;
+    padding: 8px 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#feature2 .cta div.phone a {
+    color: white
+}
+#feature2 .cta div.phone .icon-phone {
+    margin-right: 5px;
+}
+.nav a {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 200;
+}
+h4.proof {
+    font-size: 20px;
+    clear: both;
+    padding: 2%;
+    font-weight: 600;
+    text-shadow: 0px 0px 2px rgba(0, 0, 0, .2);
+    margin-top: 2%;
+    color: white;
+}
+.book-section {
+    background-image: url(../img/book-bg.png);
+    color: #fff;
+    padding: 50px 25px;
+    margin-top: 0px;
+    position: relative;
+    z-index: 2;
+}
+.treated-drugs {
+    text-align: center;
+}
+h4.proof a:link,
+h4.proof a:visited {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+}
+a:hover,
+a:focus {
+    color: #5999b2;
+    text-decoration: underline;
+}
+.embed-responsive-16by9 {
+    min-height: 200px
+}
+.banner-arrow-space {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.tel-block {
+    font-size: 22px;
+    font-weight: 300;
+    padding: 4px 0;
+    float: right;
+    padding-right: 15px;
+}
+.phone .fa-phone {
+    margin-right: 10px;
+}
+#video-controls button {
+    font-size: 40px;
+    margin-bottom: 20px;
+    /*    display: block;*/
+    height: 100%;
+    text-align: center;
+}
+#video-controls {
+    position: absolute;
+    left: 0;
+    top: 600px;
+    z-index: 9;
+}
+.color-green,
+.top-nav-collapse .tel-block,
+.navbar-default.top-nav-collapse .navbar-brand {
+    color: #659f00 !important;
+}
+.navbar-default .navbar-brand {
+    color: #777;
+}
+.g-bg-green {
+    background-color: #659f00 !important;
+}
+.g-bg-aqua {
+    background-color: #4fd2c2;
+}
+.g-bg-brown {
+    background-color: #6f4700;
+}
+.panel-green {
+    border-color: #659f00;
+}
+.panel-green > .panel-heading {
+    background: #659f00;
+}
+.g-color-default {
+    color: #659f00 !important;
+}
+.g-color-second {
+    color: #6f4700 !important;
+}
+.g-color-third {
+    color: #4fd2c2 !important;
+}
+.color-brown {
+    color: #6f4700 !important;
+}
+.map-section-info {
+    position: absolute;
+    top: 110px;
+    left: 50%;
+    width: 320px;
+    padding: 30px;
+    margin-left: -180px;
+    color: #fff;
+    z-index: 2;
+    text-align: center;
+    background: rgba(79, 210, 194, 0.7);
+}
+.g-heading-v9:after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 28px;
+    margin-left: 0;
+    border-bottom: 1px solid #659f00;
+}
+.big-icons i {
+    font-size: 50px;
+}
+h2 {
+    font-size: 34px;
+    line-height: 40px;
+}
+.circle,
+.circle-green,
+.circle-brown {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 0;
+    padding: 50% 0;
+    border-radius: 50%;
+    /* Just making it pretty */
+    @shadow: rgba(0,
+    0,
+    0,
+    .1);
+    @shadow-length: 4px;
+    -webkit-box-shadow: 0 @shadow-length 0 0 @shadow;
+    box-shadow: 0 @shadow-length 0 0 @shadow;
+    text-shadow: 0 @shadow-length 0 @shadow;
+    background: transparent;
+    color: white;
+    font-family: Helvetica, Arial Black, sans;
+    font-size: 48px;
+    text-align: center;
+    border: 2px solid;
+}
+.circle-green {
+    border-color: #659f00;
+    color: #659f00;
+}
+.circle-brown {
+    border-color: #6f4700;
+    color: #6f4700;
+}
+.navbar-fixed-top {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+@media (min-width: 992px) {
+    .header-v6 .navbar-nav > li > a {
+        padding: 20px 14px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .header-fixed .header-v6.header-fixed-shrink .navbar-nav .active > a,
+    .header-fixed .header-v6.header-fixed-shrink .navbar-nav li > a:hover,
+    .header-v6 .navbar-nav > li > a,
+    .header-v6 .navbar-nav > li > a:hover,
+    .header-v6 .navbar-nav > li > a:focus,
+    .header-v6 .navbar-nav > .active > a,
+    .header-v6 .navbar-nav > .active > a:hover,
+    .header-v6 .navbar-nav > .active > a:focus header-v6.header-border-bottom .navbar {
+        color: #72c02c;
+        font-size: 14px;
+        font-weight: 600;
+    }
+}
+@media (max-width: 991px) {
+    #feature2 {
+        background: url("../img/Ibogaine-treatment-center-1-600x600.jpg") center top no-repeat!important;
+        background-size: cover;
+        min-height: 500px;
+    }
+    #feature2 article {
+        top: 0px;
+    }
+    #video-mobile {
+        position: relative;
+        min-width: 100%!important;
+        min-height: 100%;
+        height: auto;
+        z-index: 1!important;
+        overflow: hidden;
+        display: block;
+        padding: 0;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    #feature2 h1 {
+        font-size: 28px;
+        margin-bottom: 25px;
+        margin-top: 80px;
+    }
+    .proof {
+        padding-top: 80px;
+    }
+    html {
+        overflow-x: hidden;
+    }
+}
+.sky-form footer {
+    background: transparent;
+    display: inline;
+    border: 0;
+    padding: 0;
+}
+h5,
+h6 {
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 16px;
+}
+h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 5px;
+}
+h2 {
+    font-weight: 600;
+}
+.g-heading-v9 h3 {
+    font-size: 22px;
+    font-weight: 600;
+}
+.sky-form .contact-us {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-right: 7px;
+}
+.pricing-table-v6 ul {
+    min-height: 230px;
+}
+.pricing-table-v6 .service-block-green ul {
+    min-height: 50px;
+}
+.no-space-pricing-v6 [class^="col-"],
+.no-space-pricing-v6 [class*=" col-"] {
+    padding: 0;
+}
+.service-block {
+    margin-bottom: 0px;
+    padding-top: 5px;
+}
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    padding: 6px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+#contact-us {
+    height: 0px;
+    padding: 0px;
+    margin: 0;
+}
