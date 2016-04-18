@@ -500,3 +500,6 @@ form input.button.btn.btn-block.btn-lg {
     padding-top: 100px;
     padding-bottom: 40px;
 }
+.width-100 {
+    width: 100%;
+}
