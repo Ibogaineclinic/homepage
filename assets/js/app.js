@@ -1,8 +1,4 @@
-/*
-* Template Name: Unify - Responsive Bootstrap Template
-* Author: @htmlstream
-* Website: http://htmlstream.com
-*/
+
 
 var App = function () {
 	// We extend jQuery by method hasAttr
