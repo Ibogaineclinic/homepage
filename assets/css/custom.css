@@ -481,6 +481,11 @@ h2 {
     background-size: cover;
     background-position: center center;
 }
+.interactive-slider-v2.img-treatment {
+    background: url(../img/banners/Emerald_Theta_Space.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 main.page h2,
 main.page h1,
 main.page h3 {
