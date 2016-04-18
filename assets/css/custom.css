@@ -431,3 +431,31 @@ h2 {
     padding: 0px;
     margin: 0;
 }
+.responsive-video {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 60px; overflow: hidden;
+}
+
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+.interactive-slider-v2.img-ibogaine {
+    background: url(../img/banners/ibogaine.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+body.page h2, body.page h1 {
+    margin: 40px 0 10px;
+}
+form input.button.btn.btn-block.btn-lg {
+    margin-top: 50px;
+    /* height: 100%; */
+}
