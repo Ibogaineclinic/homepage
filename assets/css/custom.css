@@ -437,9 +437,9 @@ h2 {
 .responsive-video {
     position: relative;
     padding-bottom: 56.25%;
-    padding-top: 60px;
+    padding-top: 0px;
     overflow: hidden;
-    margin-top: 40px;
+    margin-top: 100px;
 }
 .responsive-video iframe,
 .responsive-video object,
