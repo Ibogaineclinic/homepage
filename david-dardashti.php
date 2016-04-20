@@ -1,3 +1,4 @@
+<?php /* Template Name: david dardashti page */ ?>
 <!DOCTYPE html>
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!-->
@@ -21,29 +22,29 @@
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
 
     <!-- CSS Global Compulsory -->
-    <link rel="stylesheet" href="./assets/plugins/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="./assets/css/one.style.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
 
     <!-- CSS Header and Footer -->
-    <!--<link rel="stylesheet" href="./assets/css/header-v6.css">-->
+    <!--<link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">-->
 
     <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="./assets/plugins/animate.css">
-    <link rel="stylesheet" href="./assets/plugins/line-icons/line-icons.css">
-    <link rel="stylesheet" href="./assets/plugins/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="./assets/plugins/line-icons-pro/styles.css">
-    <link rel="stylesheet" href="./assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/animate.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons/line-icons.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons-pro/styles.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
 
     <!-- CSS Theme -->
-    <link rel="stylesheet" href="./assets/css/wealth.style.css">
-    <link rel="stylesheet" href="./assets/css/header-v6.css">
-    <link rel="stylesheet" href="./assets/css/theme-colors/default.css" id="style_color">
-    <link rel="stylesheet" href="./assets/css/theme-skins/dark.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/wealth.style.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/theme-colors/default.css" id="style_color">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/theme-skins/dark.css">
 
 
     <!-- CSS Customization -->
-    <link rel="stylesheet" href="./assets/css/pricing_v6.css">
-    <link rel="stylesheet" href="./assets/css/custom.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/pricing_v6.css">
+    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/custom.css">
 
 
 </head>
@@ -75,7 +76,7 @@
                         <!-- Navbar Brand -->
                         <div class="navbar-brand">
                             <a class="" href="index.html" alt="home logo">
-                                <img src="./assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
+                                <img src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
                             </a>
                         </div>
 
@@ -89,27 +90,27 @@
                             <ul class="nav navbar-nav">
                                 <!-- Home -->
                                 <li class="">
-                                    <a alt="Treatment Programs" href="./treatment.html">
+                                    <a alt="Treatment Programs" href="//ibogaineclinic.com/ibogaine-treatment">
 										Treatment Programs
 									</a>
                                 </li>
                                 <li class="">
-                                    <a alt="Experience" href="./ibogaine.html">
+                                    <a alt="Experience" href="//ibogaineclinic.com/ibogaine">
 										Experience
 									</a>
                                 </li>
                                 <li class="">
-                                    <a alt="David Dardashti" href="./david-dardashti.html">
+                                    <a alt="David Dardashti" href="//ibogaineclinic.com/david-dardashti">
 										David Dardashti
 									</a>
                                 </li>
                                 <li class="">
-                                    <a alt="Testimonials" href="./treatment-testimonials.html">
+                                    <a alt="Testimonials" href="//ibogaineclinic.com/ibogaine-treatment-testimonials">
 										Testimonials
 									</a>
                                 </li>
                                 <li class="">
-                                    <a alt="Amenities" href="./amenities.html">
+                                    <a alt="Amenities" href="//ibogaineclinic.com/david-dardashti/activities-in-playa-del-carmen/">
 										Amenities
 									</a>
                                 </li>
@@ -139,7 +140,7 @@
         <div class="container content">
             <div class="row">
                 <div class="col-xs-12 col-md-6">
-                    <img src="assets/img/banners/Ibogaine-By-David-Dardashti.png" alt="David Dardashti">
+                    <img src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/banners/Ibogaine-By-David-Dardashti.png" alt="David Dardashti">
                 </div>
                 <div class="col-xs-12 col-md-6">
                     David is an entrepreneur, theologian, musician, eternal student, healer and a father of six. His life is a whirlwind of ongoing education and entrepreneurial ventures; all fueled by his immense passion for life and learning. David grew up in Israel. After graduating high school and spending three years in the Israeli army, he moved to the United States where he attended Florida Atlantic University and received a BA in music. Soon after, he turned his talents to business; becoming a large commercial real estate developer in the United States. For as long as he can remember, David has always had an interest in the wellness of others through various forms of support and guidance. He has presented countless lectures on live radio broadcasts blending spirituality and the latest world sciences. David still continues his learning through the Talmud and Kabala. His studies include the workings of the human psyche – both conscious and subconscious – and the role it plays in substance abuse. He has been known to say, “One can become spiritual only when lifted from the boundaries and limitations of the physical body, and connected to the highest levels of consciousness – to the soul.” In response to a dramatic increase in substance abuse, depression, and PTSD, David began the development of an Ibogaine treatment program and medical research center called Ibogaine by David Dardashti.
@@ -271,30 +272,30 @@
 
 
     <!-- JS Global Compulsory -->
-    <script src="./assets/plugins/jquery/jquery.min.js"></script>
-    <script src="./assets/plugins/jquery/jquery-migrate.min.js"></script>
-    <script src="./assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery/jquery.min.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery/jquery-migrate.min.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- JS Implementing Plugins -->
-    <script src="./assets/plugins/smoothScroll.js"></script>
-    <script src="./assets/plugins/jquery.easing.min.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/smoothScroll.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
 
 
 
-    <script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
-    <script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
-    <script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
-    <script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
 
 
     <!-- JS Page Level -->
-    <script src="./assets/js/app.js"></script>
-    <script src="./assets/js/custom.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/js/app.js"></script>
+    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/js/custom.js"></script>
 
 
 
     <!--[if lt IE 10]>
-	<script src="./assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
+	<script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
 <![endif]-->
 </body>
 
