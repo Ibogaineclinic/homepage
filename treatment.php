@@ -22,7 +22,7 @@
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
 
     <!-- CSS Global Compulsory -->
-    <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
 
     <!-- CSS Header and Footer -->
@@ -310,12 +310,12 @@
 
 
     <!-- JS Global Compulsory -->
-    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery/jquery.min.js"></script>
-    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery/jquery-migrate.min.js"></script>
-    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.0/jquery-migrate.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
     <!-- JS Implementing Plugins -->
-    <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/smoothScroll.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js"></script>
     <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
 
 
