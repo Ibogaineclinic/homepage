@@ -15,7 +15,7 @@
     <meta name="author" content="David Dardashti">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/favicon.ico">
 
     <!-- Web Fonts -->
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
@@ -74,7 +74,7 @@
 
                         <!-- Navbar Brand -->
                         <div class="navbar-brand">
-                            <a class="" href="index.html" alt="home logo">
+                            <a class="" href="//ibogaineclinic.com" alt="home logo">
                                 <img src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
                             </a>
                         </div>

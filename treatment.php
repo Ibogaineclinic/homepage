@@ -16,7 +16,7 @@
     <meta name="author" content="David Dardashti">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/favicon.ico">
 
     <!-- Web Fonts -->
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
@@ -75,7 +75,7 @@
 
                         <!-- Navbar Brand -->
                         <div class="navbar-brand">
-                            <a class="" href="index.html" alt="home logo">
+                            <a class="" href="//ibogaineclinic.com" alt="home logo">
                                 <img src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
                             </a>
                         </div>
@@ -171,7 +171,7 @@
                 </div>
             </div>
             <div class="col-xs-12 col-md-6">
-                <h3>Preparation before Ibogaine Treatment</h3> Before the Ibogaine treatment, two hours are spent for interviewing the patient in order to find out everything about him/her. Basically, it’s an inquiry of his/her journey with the drugs; it’s about how he /she got into drugs for the first time. All the patients have a different answer and as a result their actual problem is often different. In most cases, depression attracts people towards drugs and they try to reroute their attention from their real issue through drugs. The first state they came in from heroine and land in a state of euphoria. But David makes it clear that this feeling of complete health and happiness through a drug is highly temporary and it causes serious issues of depression after a short period of time.
+                <h3>Preparation before Ibogaine Treatment</h3> Before the Ibogaine treatment, two hours are spent for interviewing the patient in order to find out everything about him/her. Basically, it’s an inquiry of his/her journey with the drugs; it’s about how he /she got into drugs for the first time. All the patients have a different answer and as a result their actual problem is often different. In most cases, depression attracts people towards drugs and they try to reroute their attention from their real issue through drugs. The first state they came in from Heroin and land in a state of euphoria. But David makes it clear that this feeling of complete health and happiness through a drug is highly temporary and it causes serious issues of depression after a short period of time.
                 <br>
                 <br> Now, we understand that the diversity of people coming over here to get helped also leads to a variety of treatment techniques that are being used. A lot of people come to David for their well being and besides, for removing the toxins of their bodies. What he offers is a complete new life and a lot of energy to those who are fully dependent on drugs. All the process depends on the way each person has been using opiates as well as the duration of the usage; it also includes other kinds of drugs a person might has used.
                 <br>

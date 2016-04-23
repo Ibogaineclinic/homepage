@@ -16,7 +16,7 @@
     <meta name="author" content="David Dardashti">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/favicon.ico">
 
     <!-- Web Fonts -->
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
@@ -75,7 +75,7 @@
 
                         <!-- Navbar Brand -->
                         <div class="navbar-brand">
-                            <a class="" href="index.html" alt="home logo">
+                            <a class="" href="//ibogaineclinic.com" alt="home logo">
                                 <img src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
                             </a>
                         </div>
@@ -157,7 +157,7 @@
                         <div class="phone hidden-xs col-xs-6 col-sm-5 g-bg-aqua"><i class="fa fa-phone"></i><span class="clickable">1 888-462-1164</span></div>
                         <!--end cta-->
                     </section>
-                    <h4 class="proof col-xs-12 col-sm-offset-1 col-sm-10"><a onclick="clicky.goal( 'Clicked proof' );" alt="Our treatments work" href="./treatment-testimonials.html/">Our Ibogaine treatments work! need some proof? Click Here <i class="icon-append fa fa-chevron-right"></i></a></h4>
+                    <h4 class="proof col-xs-12 col-sm-offset-1 col-sm-10"><a onclick="clicky.goal( 'Clicked proof' );" alt="Our treatments work" href="./ibogaine-treatment-testimonials/">Our Ibogaine treatments work! need some proof? Click Here <i class="icon-append fa fa-chevron-right"></i></a></h4>
                     <!-- Video Controls -->
                 </article>
                 <!-- Video Controls -->
@@ -220,10 +220,10 @@
                     <h6>Opiate</h6>
                 </div>
                 <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                    <a alt="Heroine" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Heroine">
-                        <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-Heroine.jpg" alt="Heroine" title="Heroine Detox treatment"></span>
+                    <a alt="Heroin" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Heroin">
+                        <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-heroin.jpg" alt="Heroin" title="Heroin Detox treatment"></span>
                     </a>
-                    <h6>Heroine</h6>
+                    <h6>Heroin</h6>
                 </div>
             </div>
 
@@ -438,7 +438,7 @@
                                 <td>Meditation Classes and Training</td>
                             </tr>
                             <tr>
-                                <td>Flat-Screen TV in Every Roomee</td>
+                                <td>Flat-Screen TV in Every Roome</td>
                             </tr>
                             <tr>
                                 <td>Free access to Library of DVD movies/shows</td>
