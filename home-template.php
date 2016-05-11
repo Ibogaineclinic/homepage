@@ -115,6 +115,11 @@
 									</a>
                                     </li>
                                     <li class="">
+                                        <a alt="blog" href="//ibogaineclinic.com/blog/">
+										Blog
+									</a>
+                                    </li>
+                                    <li class="">
                                         <a onclick="clicky.goal( 'Clicked phone' );" alt="phone number 18884621164" href="tel:1-888-462-1164">
                                             <i class="fa fa-phone "></i>1-888-462-1164
                                         </a>
@@ -617,9 +622,7 @@
                                 <div class="col-md-6">
                                     <span class="icon icon-call-in g-color-default"></span> &nbsp;+1 888-462-1164
                                 </div>
-                                <div class="col-md-6">
-                                    <span class="icon icon-envelope g-color-default"></span> &nbsp;info@ibogaineclinic.com
-                                </div>
+
                             </div>
                         </div>
                     </div>

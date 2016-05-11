@@ -2,7 +2,7 @@
 session_start();
 if( isset($_POST['name']) )
 {
-	$to = 'info@ibogaineclinic.com'; // Replace with your email	
+	$to = 'inquiry@ibogaineclinic.com'; // Replace with your email	
 	$subject = 'Message from website'; // Replace with your $subject
 	$headers = 'From: ' . $_POST['email'] . "\r\n" . 'Reply-To: ' . $_POST['email'];	
 	
