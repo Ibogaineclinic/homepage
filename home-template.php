@@ -139,7 +139,7 @@
                 <section id="feature2" data-type="background" data-speed="5">
 
                     <div id="video-container" class="hidden-xs">
-                        <video autoplay="" id="video" loop="false" poster="./assets/img/videostartimage.png">
+                        <video autoplay="" id="video" loop="false" poster="https://ibogaineclinic.com/wp-content/uploads/2016/03/videostartimage.png">
                             <source src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20David20Dardashti.mp4" type="video/mp4" autoplay="">
                             <source src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.webm" type="video/webm">
                             <source src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
@@ -194,38 +194,38 @@
             <!-- Four Columns -->
             <div class="container content treated-drugs">
                 <h4 class="g-color-default">About our clinic</h4>
-                <video class="visible-xs embed-responsive col-xs-12" controls id="video-mobile" poster="./assets/img/videostartimage.png">
+                <video class="visible-xs embed-responsive col-xs-12" controls id="video-mobile" poster="https://ibogaineclinic.com/wp-content/uploads/2016/03/videostartimage.png">
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20David20Dardashti.mp4" type="video/mp4">
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.webm" type="video/webm">
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
                 </video>
                 <div class="text-center margin-bottom-50">
-                    <h5>We are the “Official” Ibogaine Clinic. Treated over 3,000 patients and counting since it opened its doors almost 10 years ago providing the most sophisticated Ibogaine treatment available.</h5>
+                    <h5>We are the “Official” Ibogaine Clinic. Treated over 3,000 patients and counting since it opened its doors almost 10 years ago providing the most sophisticated<a href="http://ibogaineclinic.com/ibogaine/">Ibogaine</a>treatment available.</h5>
 
-                    <p class="">One of the most beautiful Ibogaine treatment centers located in gorgous and luxurious Puerto Playa Del Carmen. We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from this horrible condition. Many of us at Ibogaine by David Dardashti were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine anyone can arrest their addictions and move on with their lives. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. The original Ibogaine Clinic is Located in the safest tropical paradise setting that inspires a life lasting body, mind and spiritual change.</p>
+                    <p class="">One of the most beautiful Ibogaine treatment centers located in gorgous and luxurious Puerto Playa Del Carmen. We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from this horrible condition. Many of us at Ibogaine by David Dardashti were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine anyone can arrest their addictions and move on with their lives. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. The original<a href="http://ibogaineclinic.com/ibogaine/">Ibogaine</a>Clinic is Located in the safest tropical paradise setting that inspires a life lasting body, mind and spiritual change.</p>
                 </div>
                 <h2 class="title-v2 title-center">IBOGAINE TREATMENT AVAILABLE FOR</h2>
                 <div class="row  margin-bottom-30">
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                        <a alt="Alcohol" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Alcohol">
+                        <a alt="Alcohol" href="http://ibogaineclinic.com/alcohol-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Alcohol">
                             <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-alcohol.jpg" alt="Alcohol" title="Alcohol addiction treatment"></span>
                         </a>
                         <h6>Alcohol</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                        <a alt="Cocaine" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Cocaine">
+                        <a alt="Cocaine" href="http://ibogaineclinic.com/cocaine-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Cocaine">
                             <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-cocaine.jpg" alt="Cocaine" title="Cocaine addiction treatment"></span>
                         </a>
                         <h6>Cocaine</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                        <a alt="Opiate" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Opiate">
+                        <a alt="Opiate" href="http://ibogaineclinic.com/opiate-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Opiate">
                             <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-for-opiate-addiction.jpg" alt="Opiate" title="Opiate Detox treatment"></span>
                         </a>
                         <h6>Opiate</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                        <a alt="Heroin" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Heroin">
+                        <a alt="Heroin" href="http://ibogaineclinic.com/heroin-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Heroin">
                             <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-heroin.jpg" alt="Heroin" title="Heroin Detox treatment"></span>
                         </a>
                         <h6>Heroin</h6>
@@ -234,28 +234,28 @@
 
                 <div class="row margin-bottom-30">
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                        <a alt="Methadone" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Methadone">
+                        <a alt="Methadone" href="http://ibogaineclinic.com/methadone-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Methadone">
                             <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-methadone.jpg" alt="Methadone" title="Methadone addiction treatment"></span>
                         </a>
                         <h6>Methadone</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                        <a alt="Oxycontin" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Oxycontin">
+                        <a alt="Oxycontin" href="http://ibogaineclinic.com/oxycontin-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Oxycontin">
                             <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-oxycontin.jpg" alt="Oxycontin" title="Oxycontin addiction treatment"></span>
                         </a>
                         <h6>Oxycontin</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                        <a alt="Suboxone" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Suboxone">
+                        <a alt="Suboxone" href="http://ibogaineclinic.com/soboxone-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Suboxone">
                             <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/suboxone-ibogaine.jpg" alt="Suboxone" title="Suboxone addiction treatment"></span>
                         </a>
                         <h6>Suboxone</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
-                        <a alt="Methanmphetamine" href="./ibogaine/ibogaine-detox" rel="gallery2" class="fancybox img-hover-v1" title="Methanmphetamine">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-crystal-meth.jpg" alt="Methanmphetamine" title="Methanmphetamine Detox treatment"></span>
+                        <a alt="Methamphetamine" href="http://ibogaineclinic.com/methamphetamine-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Methamphetamine">
+                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-crystal-meth.jpg" alt="Methamphetamine" title="Methamphetamine Detox treatment"></span>
                         </a>
-                        <h6>Methanmphetamine</h6>
+                        <h6>Methamphetamine</h6>
                     </div>
                 </div>
 
@@ -280,7 +280,7 @@
                                 <i class="fa fa-medkit g-color-default rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>Quality Service</h3>
-                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade Ibogaine HCL. Since 2004 each one of our patients have been treated without experiencing any symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
+                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="http://ibogaineclinic.com/ibogaine/">Ibogaine</a>HCL. Since 2004 each one of our patients have been treated without experiencing any symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
                                 </div>
                             </div>
                         </div>
@@ -443,7 +443,7 @@
                                     <td>Meditation Classes and Training</td>
                                 </tr>
                                 <tr>
-                                    <td>Flat-Screen TV in Every Roome</td>
+                                    <td>Flat-Screen TV in Every Room</td>
                                 </tr>
                                 <tr>
                                     <td>Free access to Library of DVD movies/shows</td>
@@ -463,7 +463,7 @@
                                     <p>Includes everything above plus</p>
                                     <h3><span>$</span>5,000<i>USD</i></h3>
                                     <ul class="list-unstyled pricing-v4-content equal-height-column-v2">
-                                        <li> Main Ibogaine Treatment (1)</li>
+                                        <li> MainTreatment (1)</li>
                                         <li> Followup Ibogaine Doses (2)</li>
                                         <li> Swedish massages (2)</li>
 
