@@ -139,7 +139,7 @@
                 <section id="feature2" data-type="background" data-speed="5">
 
                     <div id="video-container" class="hidden-xs">
-                        <video autoplay="" id="video" loop="false" poster="https://ibogaineclinic.com/wp-content/uploads/2016/03/videostartimage.png">
+                        <video autoplay="" id="video" loop="false" poster="https://clinicpull-3b72.kxcdn.com/wp-content/uploads/2016/03/videostartimage.png">
                             <source src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20David20Dardashti.mp4" type="video/mp4" autoplay="">
                             <source src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.webm" type="video/webm">
                             <source src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
@@ -194,7 +194,7 @@
             <!-- Four Columns -->
             <div class="container content treated-drugs">
                 <h4 class="g-color-default">About our clinic</h4>
-                <video class="visible-xs embed-responsive col-xs-12" controls id="video-mobile" poster="https://ibogaineclinic.com/wp-content/uploads/2016/03/videostartimage.png">
+                <video class="visible-xs embed-responsive col-xs-12" controls id="video-mobile" poster="https://clinicpull-3b72.kxcdn.com/wp-content/uploads/2016/03/videostartimage.png">
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20David20Dardashti.mp4" type="video/mp4">
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.webm" type="video/webm">
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
