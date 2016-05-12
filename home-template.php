@@ -16,35 +16,35 @@
         <meta name="author" content="David Dardashti">
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/favicon.ico">
+        <link rel="shortcut icon" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon.ico">
 
         <!-- Web Fonts -->
         <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
 
         <!-- CSS Global Compulsory -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
 
         <!-- CSS Header and Footer -->
-        <!--<link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">-->
+        <!--<link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">-->
 
         <!-- CSS Implementing Plugins -->
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/animate.css">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons/line-icons.css">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/font-awesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons-pro/styles.css">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/animate.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons/line-icons.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons-pro/styles.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
 
         <!-- CSS Theme -->
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/wealth.style.css">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/theme-colors/default.css" id="style_color">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/theme-skins/dark.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/wealth.style.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/theme-colors/default.css" id="style_color">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/theme-skins/dark.css">
 
 
         <!-- CSS Customization -->
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/pricing_v6.css">
-        <link rel="stylesheet" href="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/css/custom.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/pricing_v6.css">
+        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/custom.css">
 
 
     </head>
@@ -76,7 +76,7 @@
                             <!-- Navbar Brand -->
                             <div class="navbar-brand">
                                 <a class="" href="//ibogaineclinic.com" alt="home logo">
-                                    <img src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
+                                    <img src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
                                 </a>
                             </div>
 
@@ -208,25 +208,25 @@
                 <div class="row  margin-bottom-30">
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
                         <a alt="Alcohol" href="http://ibogaineclinic.com/alcohol-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Alcohol">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-alcohol.jpg" alt="Alcohol" title="Alcohol addiction treatment"></span>
+                            <span><img class="img-responsive" src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-alcohol.jpg" alt="Alcohol" title="Alcohol addiction treatment"></span>
                         </a>
                         <h6>Alcohol</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
                         <a alt="Cocaine" href="http://ibogaineclinic.com/cocaine-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Cocaine">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-cocaine.jpg" alt="Cocaine" title="Cocaine addiction treatment"></span>
+                            <span><img class="img-responsive" src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-cocaine.jpg" alt="Cocaine" title="Cocaine addiction treatment"></span>
                         </a>
                         <h6>Cocaine</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
                         <a alt="Opiate" href="http://ibogaineclinic.com/opiate-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Opiate">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-for-opiate-addiction.jpg" alt="Opiate" title="Opiate Detox treatment"></span>
+                            <span><img class="img-responsive" src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-for-opiate-addiction.jpg" alt="Opiate" title="Opiate Detox treatment"></span>
                         </a>
                         <h6>Opiate</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
                         <a alt="Heroin" href="http://ibogaineclinic.com/heroin-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Heroin">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-heroin.jpg" alt="Heroin" title="Heroin Detox treatment"></span>
+                            <span><img class="img-responsive" src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-heroin.jpg" alt="Heroin" title="Heroin Detox treatment"></span>
                         </a>
                         <h6>Heroin</h6>
                     </div>
@@ -235,25 +235,25 @@
                 <div class="row margin-bottom-30">
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
                         <a alt="Methadone" href="http://ibogaineclinic.com/methadone-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Methadone">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-methadone.jpg" alt="Methadone" title="Methadone addiction treatment"></span>
+                            <span><img class="img-responsive" src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-methadone.jpg" alt="Methadone" title="Methadone addiction treatment"></span>
                         </a>
                         <h6>Methadone</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
                         <a alt="Oxycontin" href="http://ibogaineclinic.com/oxycontin-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Oxycontin">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-oxycontin.jpg" alt="Oxycontin" title="Oxycontin addiction treatment"></span>
+                            <span><img class="img-responsive" src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-oxycontin.jpg" alt="Oxycontin" title="Oxycontin addiction treatment"></span>
                         </a>
                         <h6>Oxycontin</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
                         <a alt="Suboxone" href="http://ibogaineclinic.com/soboxone-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Suboxone">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/suboxone-ibogaine.jpg" alt="Suboxone" title="Suboxone addiction treatment"></span>
+                            <span><img class="img-responsive" src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/suboxone-ibogaine.jpg" alt="Suboxone" title="Suboxone addiction treatment"></span>
                         </a>
                         <h6>Suboxone</h6>
                     </div>
                     <div class="col-xs-6 col-sm-3 sm-margin-bottom-30">
                         <a alt="Methamphetamine" href="http://ibogaineclinic.com/methamphetamine-addiction/" rel="gallery2" class="fancybox img-hover-v1" title="Methamphetamine">
-                            <span><img class="img-responsive" src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-crystal-meth.jpg" alt="Methamphetamine" title="Methamphetamine Detox treatment"></span>
+                            <span><img class="img-responsive" src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-crystal-meth.jpg" alt="Methamphetamine" title="Methamphetamine Detox treatment"></span>
                         </a>
                         <h6>Methamphetamine</h6>
                     </div>
@@ -642,25 +642,25 @@
 
         <!-- JS Implementing Plugins -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js"></script>
-        <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
+        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
 
 
-        <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
-        <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
-        <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
-        <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
+        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
+        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
+        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
 
 
         <!-- JS Page Level -->
-        <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/js/app.js"></script>
-        <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/js/custom.js"></script>
-        <script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/js/video.js"></script>
+        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/app.js"></script>
+        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/custom.js"></script>
+        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/video.js"></script>
 
 
 
 
         <!--[if lt IE 10]>
-	<script src="//ibogaineclinic.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
+	<script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
 <![endif]-->
     </body>
 
