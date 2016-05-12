@@ -75,7 +75,7 @@
 
                             <!-- Navbar Brand -->
                             <div class="navbar-brand">
-                                <a class="" href="//ibogaineclinic.com" alt="home logo">
+                                <a class="" href="https://ibogaineclinic.com/" alt="home logo">
                                     <img src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
                                 </a>
                             </div>
@@ -90,32 +90,32 @@
                                 <ul class="nav navbar-nav">
                                     <!-- Home -->
                                     <li class="">
-                                        <a alt="Treatment Programs" href="//ibogaineclinic.com/ibogaine-treatment">
+                                        <a alt="Treatment Programs" href="https://ibogaineclinic.com//ibogaine-treatment">
 										Treatment Programs
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Experience" href="//ibogaineclinic.com/ibogaine">
+                                        <a alt="Experience" href="https://ibogaineclinic.com//ibogaine">
 										Experience
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="David Dardashti" href="//ibogaineclinic.com/david-dardashti">
+                                        <a alt="David Dardashti" href="https://ibogaineclinic.com//david-dardashti">
 										David Dardashti
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Testimonials" href="//ibogaineclinic.com/ibogaine-treatment-testimonials">
+                                        <a alt="Testimonials" href="https://ibogaineclinic.com//ibogaine-treatment-testimonials">
 										Testimonials
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Amenities" href="//ibogaineclinic.com/david-dardashti/activities-in-playa-del-carmen/">
+                                        <a alt="Amenities" href="https://ibogaineclinic.com//david-dardashti/activities-in-playa-del-carmen/">
 										Amenities
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="blog" href="//ibogaineclinic.com/blog/">
+                                        <a alt="blog" href="https://ibogaineclinic.com//blog/">
 										Blog
 									</a>
                                     </li>
