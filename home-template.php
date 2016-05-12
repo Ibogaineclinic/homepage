@@ -200,9 +200,9 @@
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
                 </video>
                 <div class="text-center margin-bottom-50">
-                    <h5>We are the “Official” Ibogaine Clinic. Treated over 3,000 patients and counting since it opened its doors almost 10 years ago providing the most sophisticated<a href="http://ibogaineclinic.com/ibogaine/">Ibogaine</a>treatment available.</h5>
+                    <h5>We are the “Official” Ibogaine Clinic. Treated over 3,000 patients and counting since it opened its doors almost 10 years ago providing the most sophisticated<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment available.</h5>
 
-                    <p class="">One of the most beautiful Ibogaine treatment centers located in gorgous and luxurious Puerto Playa Del Carmen. We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from this horrible condition. Many of us at Ibogaine by David Dardashti were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine anyone can arrest their addictions and move on with their lives. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. The original<a href="http://ibogaineclinic.com/ibogaine/">Ibogaine</a>Clinic is Located in the safest tropical paradise setting that inspires a life lasting body, mind and spiritual change.</p>
+                    <p class="">One of the most beautiful Ibogaine treatment centers located in gorgous and luxurious Puerto Playa Del Carmen. We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from this horrible condition. Many of us at Ibogaine by David Dardashti were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine anyone can arrest their addictions and move on with their lives. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. The original<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is Located in the safest tropical paradise setting that inspires a life lasting body, mind and spiritual change.</p>
                 </div>
                 <h2 class="title-v2 title-center">IBOGAINE TREATMENT AVAILABLE FOR</h2>
                 <div class="row  margin-bottom-30">
@@ -280,7 +280,7 @@
                                 <i class="fa fa-medkit g-color-default rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>Quality Service</h3>
-                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="http://ibogaineclinic.com/ibogaine/">Ibogaine</a>HCL. Since 2004 each one of our patients have been treated without experiencing any symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
+                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>HCL. Since 2004 each one of our patients have been treated without experiencing any symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
                                 </div>
                             </div>
                         </div>
