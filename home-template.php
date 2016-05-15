@@ -162,7 +162,7 @@
                             <div class="phone hidden-xs col-xs-6 col-sm-5 g-bg-aqua"><i class="fa fa-phone"></i><a onclick="clicky.goal( 'Clicked phone' );" alt="phone number 18884621164" href="tel:1-888-462-1164">1 888-462-1164</a></div>
                             <!--end cta-->
                         </section>
-                        <h4 class="proof col-xs-12 col-sm-offset-1 col-sm-10"><a onclick="clicky.goal( 'Clicked proof' );" alt="Our treatments work" href="./ibogaine-treatment-testimonials/">Our Ibogaine treatments work! need some proof? Click Here <i class="icon-append fa fa-chevron-right"></i></a></h4>
+                        <h4 class="proof col-xs-12 col-sm-offset-1 col-sm-10"><a onclick="clicky.goal( 'Clicked proof' );" alt="Our treatments work" href="./ibogaine-treatment-testimonials/">Our Ibogaine treatments work! Need some proof? Click Here <i class="icon-append fa fa-chevron-right"></i></a></h4>
                         <!-- Video Controls -->
                     </article>
                     <!-- Video Controls -->
@@ -186,13 +186,16 @@
             <!-- CTA Section -->
             <section class="cta-section g-bg-aqua text-center">
                 <h3 class="">
-                Best in class Ibogaine for your needs
+                Ibogaine for your needs
                 <a alt="Contact us" class="btn-u btn-u-lg btn-u-upper rounded" type="submit" href="#contact-us" onclick="clicky.goal( 'Clicked contact 1' );">Contact Us</a>
             </h3>
             </section>
             <!-- End CTA Section -->
             <!-- Four Columns -->
             <div class="container content treated-drugs">
+                <h4 class="g-color-default">For both Medical Afflictions and Addictions</h4>
+                <p>Ibogaine works to helps with so many things we cannot list them all here. Ibogaine does not cure anything. It works as a trigger to force your body to heal itself. We are able to treat more than just Addictions, which Ibogaine is already well known for. Many Medical conditions both physical and mental, respond very well to Ibogaine as a healing trigger. Your body is a very complex powerful machine, even when it’s ill. ‘Maintenance medications’ and drugs of all kinds can help treat symptoms or cover the problem. Nothing can compare to your body working in overtime to truly heal. Addiction a much simpler protocol than what we use for different Medical Conditions. Please Contact Us Directly if you would like to be treated for a Medical Condition other than addiction. Many of the effects you will see on our website, only apply to those who receive an Addiction ‘Flood Dose’ of Ibogaine. Most illnesses/medical conditions do NOT require this, so the response from your body is much gentler and the process is longer(10 plus days).
+                </p>
                 <h4 class="g-color-default">About our clinic</h4>
                 <video class="visible-xs embed-responsive col-xs-12" controls id="video-mobile" poster="https://clinicpull-3b72.kxcdn.com/wp-content/uploads/2016/03/videostartimage.png">
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20David20Dardashti.mp4" type="video/mp4">
@@ -200,9 +203,9 @@
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
                 </video>
                 <div class="text-center margin-bottom-50">
-                    <h5>We are the “Official” Ibogaine Clinic. Treated over 3,000 patients and counting since it opened its doors almost 10 years ago providing the most sophisticated<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment available.</h5>
+                    <h5>We are the “Official” Ibogaine Clinic. Treated over 3,000 patients and counting since it opened its doors over 10 years ago providing the most sophisticated<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment available.</h5>
 
-                    <p class="">One of the most beautiful Ibogaine treatment centers located in gorgous and luxurious Puerto Playa Del Carmen. We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from this horrible condition. Many of us at Ibogaine by David Dardashti were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine anyone can arrest their addictions and move on with their lives. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. The original<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is Located in the safest tropical paradise setting that inspires a life lasting body, mind and spiritual change.</p>
+                    <p class="">One of the most beautiful Ibogaine treatment centers located in gorgous and luxurious area just outside Playa Del Carmen. We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from addiction. Many of us at Ibogaine Clinic were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine anyone can arrest their addictions and move on. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. The original<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is located in a safe tropical paradise setting that inspires a life lasting body, mind and spiritual change.</p>
                 </div>
                 <h2 class="title-v2 title-center">IBOGAINE TREATMENT AVAILABLE FOR</h2>
                 <div class="row  margin-bottom-30">
@@ -264,7 +267,7 @@
             <!-- CTA Section -->
             <section class="cta-section g-bg-aqua text-center">
                 <h4 class="">
-                Best in class Research Center for your needs
+                Ibogaine detox and Research Center
                 <a onclick="clicky.goal( 'Clicked contact 2' );" alt="Contact us" class="btn-u btn-u-lg btn-u-upper rounded" type="submit" href="#contact-us">Contact Us</a>
             </h4>
             </section>
@@ -280,7 +283,7 @@
                                 <i class="fa fa-medkit g-color-default rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>Quality Service</h3>
-                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>HCL. Since 2004 each one of our patients have been treated without experiencing any symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
+                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>HCL. Since 2004 each one of our patients have been treated without experiencing traditional symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
                                 </div>
                             </div>
                         </div>
@@ -289,7 +292,7 @@
                                 <i class="fa fa-cutlery color-brown rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>We offer Better then home Meals</h3>
-                                    <p>With three home cooked meals a day, you can be certain that you will be well fed. No Rehab cafeteria food, and after taking <strong>Ibogaine</strong> your senses will be renewed. Making it easy to enjoy local fruit, veggies and fish. You won't be eating Peanut Butter and Jelly... Unless you want too.</p>
+                                    <p>With three healthy home cooked meals a day, you can be certain that you will be well fed. No Rehab cafeteria food. After taking <strong>Ibogaine</strong> your senses will be renewed, making it easy to enjoy local fruit, veggies and fish. You won't be eating Peanut Butter and Jelly... Unless you want too.</p>
                                 </div>
                             </div>
                         </div>
@@ -303,7 +306,7 @@
                                 <i class="fa fa-heartbeat color-brown rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>24 Hour monitoring</h3>
-                                    <p>The original <strong>Ibogaine clinic</strong> uses state of the art equipment including an EKG and more just like you would find at any modern detox center. Your Blood pressure and heart rate is monitored constantly to make sure your heart and body are on the right track for healing and renewal.</p>
+                                    <p>The original <strong>Ibogaine Clinic</strong> uses an EKG and other equipment just like you would find at any modern detox center. Your Blood pressure and heart rate can be monitored constantly to verify your heart and body are on the right track for healing and renewal.</p>
                                 </div>
                             </div>
                         </div>
@@ -312,7 +315,7 @@
                                 <i class="fa fa-star g-color-default rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>World class health Care</h3>
-                                    <p>With a 24/7 medical staff of doctors, nurses and coaches that understand Ibogaine and its use in <strong>Detox and Rehab.</strong> You can be sure your needs will be looked after by warm and friendly certified health professionals familiar with your needs.</p>
+                                    <p>A 24/7 medical staff of doctors, nurses and coaches that understand Ibogaine and its use in <strong>Detox and Rehab.</strong> You can be sure your needs will be looked after by friendly certified health professionals familiar with your needs.</p>
                                 </div>
                             </div>
                         </div>
@@ -377,19 +380,13 @@
                         <table class="table table-hover">
                             <tbody>
                                 <tr>
-                                    <td>Two hour full medical exam by Physician</td>
+                                    <td>Two hour full medical exam by Physician as needed</td>
                                 </tr>
                                 <tr>
                                     <td>Medically Supervised Cardiogram</td>
                                 </tr>
                                 <tr>
                                     <td>24/7 Personal Medical Supervision</td>
-                                </tr>
-                                <tr>
-                                    <td>Additional Med's provided based on patients needs</td>
-                                </tr>
-                                <tr>
-                                    <td>Includes all required medical equipment</td>
                                 </tr>
                                 <tr>
                                     <td>Free private transportation to and from the airport</td>
@@ -401,28 +398,25 @@
                                     <td>Free International Telephone Calls 24/7</td>
                                 </tr>
                                 <tr>
-                                    <td>Free Hot/Cold Drink &amp; Snack Bar open 24/7 (never go hungry)</td>
+                                    <td>Free Hot/Cold Drink &amp; Snack Bar open 24/7</td>
                                 </tr>
                                 <tr>
                                     <td>Free Beach Access (3 separate gorgeous beaches)</td>
                                 </tr>
                                 <tr>
-                                    <td>Access to pro golf-course</td>
+                                    <td>Access to Pro Golf Course</td>
                                 </tr>
                                 <tr>
                                     <td>Access to pro Tennis Courts</td>
                                 </tr>
                                 <tr>
-                                    <td>Free Access to Luxury Spa (8:00am to 8:00pm)</td>
+                                    <td>Free Access to Luxury Spa (8:00am to 8:00pm) (Offsite Site)</td>
                                 </tr>
                                 <tr>
-                                    <td>Free Access to Gym &amp; Fitness Center (8:00am to 8:00pm)</td>
+                                    <td>Free Access to Gym &amp; Fitness Center (8:00am to 8:00pm) (Offsite Site)</td>
                                 </tr>
                                 <tr>
-                                    <td>Steam Rooms and Saunas</td>
-                                </tr>
-                                <tr>
-                                    <td>Resort Pool and Jacuzzi's</td>
+                                    <td>Steam Rooms and Saunas (Offsite Site)</td>
                                 </tr>
                                 <tr>
                                     <td>Facility has a pool open 24/7</td>
@@ -431,25 +425,23 @@
                                     <td>Enjoy TV and Netflix (Included)</td>
                                 </tr>
                                 <tr>
+                                    <td>Flat-Screen TV in Every Room</td>
+                                </tr>
+                                <tr>
                                     <td>1 on 1 mental and life counseling sessions daily</td>
                                 </tr>
                                 <tr>
                                     <td>Group sessions daily</td>
                                 </tr>
                                 <tr>
-                                    <td>Yoga Classes </td>
+                                    <td>Yoga Classes and Meditation Classes</td>
                                 </tr>
-                                <tr>
-                                    <td>Meditation Classes and Training</td>
-                                </tr>
-                                <tr>
-                                    <td>Flat-Screen TV in Every Room</td>
-                                </tr>
+
                                 <tr>
                                     <td>Free access to Library of DVD movies/shows</td>
                                 </tr>
                                 <tr>
-                                    <td>3 Full home cooked meals a day</td>
+                                    <td>3 healthy home cooked meals a day</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -461,13 +453,14 @@
                                     <i class="icon-custom icon-color-light rounded-x icon-line icon-graduation"></i>
                                     <h2 class="heading-md">4 Day Treatment</h2>
                                     <p>Includes everything above plus</p>
-                                    <h3><span>$</span>5,000<i>USD</i></h3>
+
                                     <ul class="list-unstyled pricing-v4-content equal-height-column-v2">
-                                        <li> MainTreatment (1)</li>
-                                        <li> Followup Ibogaine Doses (2)</li>
+                                        <li> Main Treatment (1)</li>
+                                        <li> Follow up Ibogaine Doses (2)</li>
                                         <li> Swedish massages (2)</li>
 
                                     </ul>
+                                    <h3><span>$</span>5,000<i>USD</i></h3>
 
                                 </div>
                             </div>
@@ -478,17 +471,18 @@
                                     <i class="icon-custom icon-color-light rounded-x fa fa-user"></i>
                                     <h2 class="heading-md">7 Day Treatment</h2>
                                     <p>Includes everything above plus</p>
-                                    <h3><span>$</span>9,500<i>USD</i></h3>
+
                                     <ul class="list-unstyled pricing-v4-content equal-height-column-v2">
                                         <li> Main Ibogaine Treatment (1 to 2)*</li>
-                                        <li> Followup Ibogaine Doses (4)</li>
+                                        <li> Follow up Ibogaine Doses (4)</li>
                                         <li> Deep Tissue Massage (1)</li>
+                                        <li> Swedish massages (daily)</li>
                                         <li> Excursion to the Mayan Ruins</li>
                                         <li>Excursion to the Underground Natural Springs (Cenotes)</li>
                                         <li> Swimming with the Dolphins Session</li>
-                                        <li> Swedish massages (daily)</li>
-                                    </ul>
 
+                                    </ul>
+                                    <h3><span>$</span>9,500<i>USD</i></h3>
                                 </div>
                             </div>
                         </div>
@@ -499,13 +493,13 @@
                                     <i class="icon-custom icon-color-light rounded-x fa fa-users"></i>
                                     <h2 class="heading-md">10 Day Treatment</h2>
                                     <p>Includes everything above plus</p>
-                                    <h3><span>$</span>11,500<i>USD</i></h3>
+
                                     <ul class="list-unstyled pricing-v4-content text-center">
                                         <li> Main Ibogaine Treatment (1 to 2)*</li>
-                                        <li> Followup Ibogaine Doses (6)</li>
+                                        <li> Follow up Ibogaine Doses (6)</li>
                                         <li> Excursion to the world famous Tulum Beach and Town</li>
                                     </ul>
-
+                                    <h3><span>$</span>11,500<i>USD</i></h3>
                                 </div>
                             </div>
                         </div>
