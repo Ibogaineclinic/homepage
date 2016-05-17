@@ -153,7 +153,7 @@
                             </a>
                         </div>
                         <h1 class="">Ibogaine heals - <span class="hidden-xs"> We have treated over 3,000 patients since 2004 </span></h1>
-                        <h2 class="">Ibogaine calculated correctly, applied properly. by David Dardashti</h2>
+                        <h2 class="">Ibogaine calculated carefully, applied precisely. by David Dardashti</h2>
 
                         <section class="cta">
                             <h3 class="hidden-xs text col-sm-offset-1 col-xs-6 col-sm-5">Begin your journey!</h3>
