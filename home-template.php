@@ -90,32 +90,32 @@
                                 <ul class="nav navbar-nav">
                                     <!-- Home -->
                                     <li class="">
-                                        <a alt="Treatment Programs" href="https://ibogaineclinic.com//ibogaine-treatment">
-										Treatment Programs
+                                        <a alt="Treatment Program" href="https://ibogaineclinic.com/ibogaine-treatment">
+										Treatment Program
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Experience" href="https://ibogaineclinic.com//ibogaine">
+                                        <a alt="Experience" href="https://ibogaineclinic.com/ibogaine">
 										Experience
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="David Dardashti" href="https://ibogaineclinic.com//david-dardashti">
+                                        <a alt="David Dardashti" href="https://ibogaineclinic.com/david-dardashti">
 										David Dardashti
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Testimonials" href="https://ibogaineclinic.com//ibogaine-treatment-testimonials">
+                                        <a alt="Testimonials" href="https://ibogaineclinic.com/ibogaine-treatment-testimonials">
 										Testimonials
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Amenities" href="https://ibogaineclinic.com//david-dardashti/activities-in-playa-del-carmen/">
+                                        <a alt="Amenities" href="https://ibogaineclinic.com/david-dardashti/activities-in-playa-del-carmen/">
 										Amenities
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="blog" href="https://ibogaineclinic.com//blog/">
+                                        <a alt="blog" href="https://ibogaineclinic.com/blog/">
 										Blog
 									</a>
                                     </li>
@@ -194,7 +194,7 @@
             <!-- Four Columns -->
             <div class="container content treated-drugs">
                 <h4 class="g-color-default">For both Medical Afflictions and Addictions</h4>
-                <p>Ibogaine works to helps with so many things we cannot list them all here. Ibogaine does not cure anything. It works as a trigger to force your body to heal itself. We are able to treat more than just Addictions, which Ibogaine is already well known for. Many Medical conditions both physical and mental, respond very well to Ibogaine as a healing trigger. Your body is a very complex powerful machine, even when it’s ill. ‘Maintenance medications’ and drugs of all kinds can help treat symptoms or cover the problem. Nothing can compare to your body working in overtime to truly heal. Addiction a much simpler protocol than what we use for different Medical Conditions. Please Contact Us Directly if you would like to be treated for a Medical Condition other than addiction. Many of the effects you will see on our website, only apply to those who receive an Addiction ‘Flood Dose’ of Ibogaine. Most illnesses/medical conditions do NOT require this, so the response from your body is much gentler and the process is longer(10 plus days).
+                <p>Ibogaine is an herbal extract usually administered in capsule form. Ibogaine does not cure anything. It is as a trigger to reignite your body to heal itself. We are able to treat more than just Addictions, which Ibogaine is already well known for. Many Medical conditions both physical and mental, respond very well to Ibogaine as a healing trigger. Your body is a very complex powerful machine, even when it’s ill. ‘Maintenance medications’ and drugs of all kinds can help treat symptoms or cover the problem. Nothing can compare to your body working in overtime to truly heal. Addiction is a much simpler protocol than what we need for different Medical Conditions. Please Contact Us Directly if you would like to be treated for a Medical Condition other than addiction. Many of the effects you see on our website, only apply to those who receive an Addiction ‘Flood Dose’ of Ibogaine. Most illnesses/medical conditions do NOT require a flood dose, so the response from your body is much gentler and the process is longer(10 plus days).
                 </p>
                 <h4 class="g-color-default">About our clinic</h4>
                 <video class="visible-xs embed-responsive col-xs-12" controls id="video-mobile" poster="https://clinicpull-3b72.kxcdn.com/wp-content/uploads/2016/03/videostartimage.png">
@@ -203,9 +203,9 @@
                     <source class="embed-responsive-item" src="http://ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
                 </video>
                 <div class="text-center margin-bottom-50">
-                    <h5>We are the “Official” Ibogaine Clinic. Treated over 3,000 patients and counting since it opened its doors over 10 years ago providing the most sophisticated<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment available.</h5>
+                    <h5>We are the “Official” Ibogaine Clinic. We have treated over 3,000 patients and counting since opening the doors over 10 years ago providing the most sophisticated<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatments available.</h5>
 
-                    <p class="">One of the most beautiful Ibogaine treatment centers located in gorgous and luxurious area just outside Playa Del Carmen. We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from addiction. Many of us at Ibogaine Clinic were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine anyone can arrest their addictions and move on. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. The original<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is located in a safe tropical paradise setting that inspires a life lasting body, mind and spiritual change.</p>
+                    <p class="">We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from addiction. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. Many of us at Ibogaine Clinic were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine, anyone can arrest their addictions and forward. The original<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is located in a safe tropical paradise setting outside Playa Del Carmen that inspires a life lasting body, mind and spiritual change.</p>
                 </div>
                 <h2 class="title-v2 title-center">IBOGAINE TREATMENT AVAILABLE FOR</h2>
                 <div class="row  margin-bottom-30">
@@ -283,7 +283,7 @@
                                 <i class="fa fa-medkit g-color-default rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>Quality Service</h3>
-                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>HCL. Since 2004 each one of our patients have been treated without experiencing traditional symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
+                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>HCL. Since 2004 our patients have been treated without the experiencing traditional symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
                                 </div>
                             </div>
                         </div>
@@ -292,7 +292,7 @@
                                 <i class="fa fa-cutlery color-brown rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>We offer Better then home Meals</h3>
-                                    <p>With three healthy home cooked meals a day, you can be certain that you will be well fed. No Rehab cafeteria food. After taking <strong>Ibogaine</strong> your senses will be renewed, making it easy to enjoy local fruit, veggies and fish. You won't be eating Peanut Butter and Jelly... Unless you want too.</p>
+                                    <p>With three healthy home cooked meals a day, you will be well fed. No Rehab cafeteria food. After taking <strong>Ibogaine</strong> your senses will be renewed, making it easy to enjoy local fruit, veggies and fish. You won't be eating Peanut Butter and Jelly... Unless you want too.</p>
                                 </div>
                             </div>
                         </div>
@@ -306,7 +306,9 @@
                                 <i class="fa fa-heartbeat color-brown rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>24 Hour monitoring</h3>
-                                    <p>The original <strong>Ibogaine Clinic</strong> uses an EKG and other equipment just like you would find at any modern detox center. Your Blood pressure and heart rate can be monitored constantly to verify your heart and body are on the right track for healing and renewal.</p>
+                                    <p>A 24/7 medical staff of doctors, nurses and coaches that understand Ibogaine and its use in <strong>Detox and Rehab.</strong> You can be sure your needs will be looked after by friendly certified health professionals familiar with your needs.</p>
+
+
                                 </div>
                             </div>
                         </div>
@@ -314,8 +316,8 @@
                             <div class="service-block-v8">
                                 <i class="fa fa-star g-color-default rounded-x "></i>
                                 <div class="service-block-desc">
-                                    <h3>World class health Care</h3>
-                                    <p>A 24/7 medical staff of doctors, nurses and coaches that understand Ibogaine and its use in <strong>Detox and Rehab.</strong> You can be sure your needs will be looked after by friendly certified health professionals familiar with your needs.</p>
+                                    <h3>Certified Health Care</h3>
+                                    <p>The original <strong>Ibogaine Clinic</strong> uses an EKG and other equipment like you would find at any modern detox center. Your Blood Pressure and Heart Rate can be monitored constantly, to verify your heart and body are on the right track for healing and renewal.</p>
                                 </div>
                             </div>
                         </div>
@@ -327,7 +329,7 @@
             <!-- CTA Section -->
             <section class="cta-section g-bg-aqua text-center">
                 <h3 class="">
-                Best in class service for your needs
+                Get clean with Ibogaine Detox next week
                 <a onclick="clicky.goal( 'Clicked contact 3' );" alt="Contact us" class="btn-u btn-u-lg btn-u-upper rounded" type="submit" href="#contact-us">Contact Us</a>
             </h3>
             </section>

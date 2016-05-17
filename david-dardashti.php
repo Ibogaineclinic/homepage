@@ -90,33 +90,33 @@
                                 <ul class="nav navbar-nav">
                                     <!-- Home -->
                                     <li class="">
-                                        <a alt="Treatment Programs" href="https://ibogaineclinic.com//ibogaine-treatment">
-										Treatment Programs
+                                        <a alt="Treatment Program" href="https://ibogaineclinic.com/ibogaine-treatment">
+										Treatment Program
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Experience" href="https://ibogaineclinic.com//ibogaine">
+                                        <a alt="Experience" href="https://ibogaineclinic.com/ibogaine">
 										Experience
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="David Dardashti" href="https://ibogaineclinic.com//david-dardashti">
+                                        <a alt="David Dardashti" href="https://ibogaineclinic.com/david-dardashti">
 										David Dardashti
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Testimonials" href="https://ibogaineclinic.com//ibogaine-treatment-testimonials">
+                                        <a alt="Testimonials" href="https://ibogaineclinic.com/ibogaine-treatment-testimonials">
 										Testimonials
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Amenities" href="https://ibogaineclinic.com//david-dardashti/activities-in-playa-del-carmen/">
+                                        <a alt="Amenities" href="https://ibogaineclinic.com/david-dardashti/activities-in-playa-del-carmen/">
 										Amenities
 									</a>
 
                                     </li>
                                     <li class="">
-                                        <a alt="blog" href="https://ibogaineclinic.com//blog/">
+                                        <a alt="blog" href="https://ibogaineclinic.com/blog/">
 										Blog
 									</a>
                                     </li>
@@ -149,14 +149,14 @@
                         <img src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/Ibogaine-By-David-Dardashti.png" alt="David Dardashti">
                     </div>
                     <div class="col-xs-12 col-md-6">
-                        David is an entrepreneur, theologian, musician, eternal student, healer and a father of six. His life is a whirlwind of ongoing education and entrepreneurial ventures; all fueled by his immense passion for life and learning. David grew up in Israel. After graduating high school and spending three years in the Israeli army, he moved to the United States where he attended Florida Atlantic University and received a BA in music. He turned his talents to business; becoming a large commercial real estate developer in the United States. For as long as he can remember, David has always had an interest in the wellness of others through various forms of support and guidance. He has presented countless lectures on live radio broadcasts blending spirituality and the latest world sciences. David still continues his learning through the Talmud and Kabala. His studies include the workings of the human psyche – both conscious and subconscious – and the role it plays in substance abuse. In response to a dramatic increase in substance abuse, depression, and PTSD, David began the development of an<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment program and medical research center called Ibogaine Clinic.
+                        David is an entrepreneur, theologian, musician, eternal student, healer and a father of six. His life is a whirlwind of ongoing education and entrepreneurial ventures; all fueled by his immense passion for life and learning. David grew up in Israel. After graduating high school and spending three years in the Israeli army, he moved to the United States where he attended Florida Atlantic University and received a BA in music. He turned his talents to business; becoming a large commercial real estate developer in the United States. For as long as he can remember, David has always had an interest in the wellness of others through various forms of support and guidance. He has presented countless lectures on live radio broadcasts blending spirituality and the latest world sciences. David still continues his learning through the Talmud and Kabala. His studies include the workings of the human psyche – both conscious and subconscious – and the role it plays in substance abuse. In response to a dramatic increase in substance abuse, depression, and PTSD, David began the development of an<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment program and medical research center called the original Ibogaine Clinic.
                     </div>
 
                 </div>
                 <div class="row">
                     <div class="col-xs-12 col-md-6">
                         <h3>Ibogaine Research</h3> The natural substance Ibogaine possesses cleansing properties for a physical, emotional and spiritual treatment. As he likes to say, “Ibogaine may help the individual bypass the physical withdrawal and cravings, and it is the cleansing of the conscious and subconscious that leads to a lasting recovery."
-                        <a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>is a unique, naturally occurring substance that enables recovery from substance abuse without normal withdrawal or cravings. David appreciates the spiritual component of the Ibogaine experience. Ibogaine is an experience of clarity, understanding and true self-knowledge. Over the years, David’s Ibogaine treatment center has focused largely on addiction, depression, PTSD, as well as assisting individuals with a variety of physical and mental illnesses. All of this is made possible due to the high standards in the center, especially in trained medical staff, food, and in using the highest available grade of Ibogaine (99.5% Ibogaine HCL). Recently, David’s ongoing research has taken a bold step outside the traditional scope of Ibogaine use, producing evidence that Ibogaine may treat Hepatitis C, Migraines, Alzheimer’s, High blood pressure, Parkinson’s, Chronic Fatigue Syndrome and Diabetes. Even proveing very usefull for ageing renewal.
+                        <a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>is a unique, naturally occurring substance that enables recovery from substance abuse without normal withdrawal or cravings. David appreciates the spiritual component of the Ibogaine experience. Ibogaine is an experience of clarity, understanding and true self-knowledge. Over the years, David’s Ibogaine treatment center has focused largely on addiction, depression, PTSD, as well as assisting individuals with a variety of physical and mental illnesses. All of this is made possible due to the high standards in the center, especially in trained medical staff, food, and in using the highest available grade of Ibogaine (99.5% Ibogaine HCL). Recently, David’s ongoing research has taken a bold step outside the traditional scope of Ibogaine use, producing evidence that Ibogaine may treat Hepatitis C, Migraines, Alzheimer’s, High blood pressure, Parkinson’s, Chronic Fatigue Syndrome, Diabetes and proving very usefull for ageing renewal.
 
                     </div>
                     <div class="col-xs-12 col-md-6">

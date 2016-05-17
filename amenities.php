@@ -90,32 +90,32 @@
                                 <ul class="nav navbar-nav">
                                     <!-- Home -->
                                     <li class="">
-                                        <a alt="Treatment Programs" href="https://ibogaineclinic.com//ibogaine-treatment">
-										Treatment Programs
+                                        <a alt="Treatment Program" href="https://ibogaineclinic.com/ibogaine-treatment">
+										Treatment Program
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Experience" href="https://ibogaineclinic.com//ibogaine">
+                                        <a alt="Experience" href="https://ibogaineclinic.com/ibogaine">
 										Experience
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="David Dardashti" href="https://ibogaineclinic.com//david-dardashti">
+                                        <a alt="David Dardashti" href="https://ibogaineclinic.com/david-dardashti">
 										David Dardashti
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Testimonials" href="https://ibogaineclinic.com//ibogaine-treatment-testimonials">
+                                        <a alt="Testimonials" href="https://ibogaineclinic.com/ibogaine-treatment-testimonials">
 										Testimonials
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Amenities" href="https://ibogaineclinic.com//david-dardashti/activities-in-playa-del-carmen/">
+                                        <a alt="Amenities" href="https://ibogaineclinic.com/david-dardashti/activities-in-playa-del-carmen/">
 										Amenities
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="blog" href="https://ibogaineclinic.com//blog/">
+                                        <a alt="blog" href="https://ibogaineclinic.com/blog/">
 										Blog
 									</a>
                                     </li>
