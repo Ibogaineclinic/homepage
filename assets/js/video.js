@@ -14,7 +14,7 @@ window.onload = function () {
     // Sliders
     var seekBar = document.getElementById("seek-bar");
     var volumeBar = document.getElementById("volume-bar");
-    video.volume = 0.5;
+    video.volume = 0.3;
 
     // Event listener for the play/pause button
     playButton.addEventListener("click", function () {

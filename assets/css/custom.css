@@ -27,7 +27,7 @@ h6,
 .features-item--big {
     overflow: hidden;
     position: relative;
-    background: url(https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-by-david-dardashti-before-and-after-9-1024x576.jpg) no-repeat scroll 50% 0 / cover;
+    background: url(//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/ibogaine-by-david-dardashti-before-and-after-9-1024x576.jpg) no-repeat scroll 50% 0 / cover;
     background-size: 100% 100%;
     transition: all .5s;
 }
@@ -44,7 +44,7 @@ div.team-big img {
     max-height: 200px;
 }
 #feature2 {
-    background: url("https://ibogaineclinic.com/wp-content/uploads/2016/03/videostartimage.png") 0% 15% no-repeat!important;
+    background: url("//ibogaineclinic.com/wp-content/uploads/2016/03/videostartimage.png") 0% 15% no-repeat!important;
     -webkit-background-size: auto 800px;
     background-size: auto 800px;
     background-size: cover;
@@ -345,7 +345,7 @@ h2 {
 }
 @media (max-width: 991px) {
     #feature2 {
-        background: url("https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/Ibogaine-treatment-center-1-600x600.jpg") center top no-repeat!important;
+        background: url("//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/Ibogaine-treatment-center-1-600x600.jpg") center top no-repeat!important;
         background-size: cover;
         min-height: 500px;
     }
@@ -463,34 +463,34 @@ h2 {
     background-position: center center;
 }
 .interactive-slider-v2.img-ibogaine {
-    background: url(https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/img/banners/ibogaine.jpg) no-repeat;
+    background: url(//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/ibogaine.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 .interactive-slider-v2.img-amenities {
-    background: url(https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/img/banners/coast-playa-del-carmen.jpg) no-repeat;
+    background: url(//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/coast-playa-del-carmen.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 .interactive-slider-v2.img-ibogaine-molecule {
-    background: url(https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/500px-Ibogaine.svg.png) no-repeat;
+    background: url(//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/500px-Ibogaine.svg.png) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 .interactive-slider-v2.img-exsperience {
-    background: url(https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/img/banners/Universe-Mystery-Wallpaper.jpg) no-repeat;
+    background: url(//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/Universe-Mystery-Wallpaper.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 .interactive-slider-v2.img-treatment {
-    background: url(https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/img/banners/Emerald_Theta_Space.jpg) no-repeat;
+    background: url(//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/Emerald_Theta_Space.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 main.page h2,
 main.page h1,
 main.page h3 {
-    margin: 40px 0 10px;
+    margin: 0 0 10px;
     font-weight: 600;
 }
 form input.button.btn.btn-block.btn-lg {

@@ -16,35 +16,35 @@
         <meta name="author" content="David Dardashti">
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon.ico">
+        <link rel="shortcut icon" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon.ico">
 
         <!-- Web Fonts -->
-        <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+        <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
 
         <!-- CSS Global Compulsory -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
 
         <!-- CSS Header and Footer -->
-        <!--<link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">-->
+        <!--<link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">-->
 
         <!-- CSS Implementing Plugins -->
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/animate.css">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons/line-icons.css">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/font-awesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons-pro/styles.css">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/animate.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons/line-icons.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons-pro/styles.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
 
         <!-- CSS Theme -->
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/wealth.style.css">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/theme-colors/default.css" id="style_color">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/theme-skins/dark.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/wealth.style.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/theme-colors/default.css" id="style_color">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/theme-skins/dark.css">
 
 
         <!-- CSS Customization -->
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/pricing_v6.css">
-        <link rel="stylesheet" href="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/custom.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/pricing_v6.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/custom.css">
 
 
     </head>
@@ -75,8 +75,8 @@
 
                             <!-- Navbar Brand -->
                             <div class="navbar-brand">
-                                <a class="" href="https://ibogaineclinic.com/" alt="home logo">
-                                    <img src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
+                                <a class="" href="//ibogaineclinic.com/" alt="home logo">
+                                    <img src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
                                 </a>
                             </div>
 
@@ -90,32 +90,32 @@
                                 <ul class="nav navbar-nav">
                                     <!-- Home -->
                                     <li class="">
-                                        <a alt="Treatment Program" href="https://ibogaineclinic.com/ibogaine-treatment">
+                                        <a alt="Treatment Program" href="//ibogaineclinic.com/ibogaine-treatment">
 										Treatment Program
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Experience" href="https://ibogaineclinic.com/ibogaine">
+                                        <a alt="Experience" href="//ibogaineclinic.com/ibogaine">
 										Experience
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="David Dardashti" href="https://ibogaineclinic.com/david-dardashti">
+                                        <a alt="David Dardashti" href="//ibogaineclinic.com/david-dardashti">
 										David Dardashti
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Testimonials" href="https://ibogaineclinic.com/ibogaine-treatment-testimonials">
+                                        <a alt="Testimonials" href="//ibogaineclinic.com/ibogaine-treatment-testimonials">
 										Testimonials
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="Amenities" href="https://ibogaineclinic.com/david-dardashti/activities-in-playa-del-carmen/">
+                                        <a alt="Amenities" href="//ibogaineclinic.com/david-dardashti/activities-in-playa-del-carmen/">
 										Amenities
 									</a>
                                     </li>
                                     <li class="">
-                                        <a alt="blog" href="https://ibogaineclinic.com/blog/">
+                                        <a alt="blog" href="//ibogaineclinic.com/blog/">
 										Blog
 									</a>
                                     </li>
@@ -143,13 +143,13 @@
             <div class="container content">
 
                 <div class="col-xs-12">
-                    <h1>Ibogaine Addiction Treatment and the recovery journey</h1> The first and most tortuous step in dealing with an addiction is to recognize that you have a problem, and then make a conscious choice to seek treatment. You have bravely taken this first step towards your recovery by visiting us here. This site is a safe environment in which you can learn about our innovative and powerful new<strong><a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment</strong>, and determine if that treatment is right for you.
+                    <h1>Ibogaine Addiction Treatment and the recovery journey</h1> The first and most tortuous step in dealing with an addiction is to recognize that you have a problem, and then make a conscious choice to seek treatment. You have bravely taken this first step towards your recovery by visiting us here. This site is a safe environment in which you can learn about our innovative and powerful new<strong><a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment</strong>, and determine if that treatment is right for you.
                     <br>
                     <br>
                     <h3>The Cycle of Addiction</h3> The time it takes to become addicted to a drug or other substance is alarmingly short, while the recovery process is agonizingly slow. We are here to guide you through this difficult process, and assist you in breaking the cycle of your addiction. This cycle is extremely complex, with both physical and psychological factors coming into play. Chemical imbalances, traumatic incidents, childhood abuse, and brain chemistry can work together to cause immense psychic agony, so much so that the mind will instinctively try to protect itself by turning to substances which can allow you to avoid or forget the pain. Addiction, of course, only creates more damage, and the cycle this causes is difficult to break.
                     <br>
                     <br>
-                    <strong>Why Your Treatment Hasn’t Worked</strong> If you are visiting us here, you may have already attempted to stop your addiction, quitting cold turkey, seeking treatment in a specialized facility, or by any number of other means. You may be wondering why you failed at these attempts, or why you have relapsed after apparently successful treatment. Are you simply too weak to break free of your addiction? The problem has been your treatment approach. Most approaches only address the physical aspects of quitting, when the reality is that both physical <em>and</em> emotional causes of the addiction must be addressed. If they were not, the patient is left with the same psychological wounds, and the cycle begins again. The Ibogaine Clinic works hard to introduce positve replacements. This prevents the negative cycle from beginning again. The<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>experience is a highly effective addiction treatment program that works by addressing the entire scope of the disease. Ibogaine effects are to naturally detoxify both the body and the mind, creating a solid foundation that shields patients from relapse.
+                    <strong>Why Your Treatment Hasn’t Worked</strong> If you are visiting us here, you may have already attempted to stop your addiction, quitting cold turkey, seeking treatment in a specialized facility, or by any number of other means. You may be wondering why you failed at these attempts, or why you have relapsed after apparently successful treatment. Are you simply too weak to break free of your addiction? The problem has been your treatment approach. Most approaches only address the physical aspects of quitting, when the reality is that both physical <em>and</em> emotional causes of the addiction must be addressed. If they were not, the patient is left with the same psychological wounds, and the cycle begins again. The Ibogaine Clinic works hard to introduce positve replacements. This prevents the negative cycle from beginning again. The<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>experience is a highly effective addiction treatment program that works by addressing the entire scope of the disease. Ibogaine effects are to naturally detoxify both the body and the mind, creating a solid foundation that shields patients from relapse.
                 </div>
                 <div class="col-xs-12 col-md-6">
                     <span style="color: #339966;"><h2>How it Works</h2></span> Our treatment program consists of two phases. First, a screening process to qualify the individual for treatment. We create a custom protocol, for the Ibogaine dosage and duration, to ensure the best possible results. Ibogaine treatment works naturally within the body to gently detox patients, while cleansing their systems. One of the key factors in addiction’s cyclical nature is it creates imbalances in the dopamine pathways of the brains frontal cortex. The first step naturally rebalances these pathways, breaking the physical aspect of the addiction cycle.
@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-xs-12 col-md-6">
                     <div class="responsive-video">
-                        <iframe src="https://player.vimeo.com/video/115982400" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        <iframe src="//player.vimeo.com/video/115982400" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="col-xs-12">
@@ -170,7 +170,7 @@
                     <br> Before the treatment starts you must be ready to accept the truth of your addiction and what you want from yourself. In order to properly treat a patient, the medical practitioners must know what kind of drugs, how long and in what mode the patient has been using it. He/she must realize that he/she is weary with the addictions and that it consciously is a complete mistake. It takes the patient’s zeal to be healed; only then can the treatment be carried on with positive expectable results.</div>
                 <div class="col-xs-12 col-md-6">
                     <div class="responsive-video">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/euYy5EweNto" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="//www.youtube.com/embed/euYy5EweNto" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="col-xs-12 col-md-6">
@@ -181,28 +181,28 @@
                     <br> After the overall treatment, there are times patients share their experiences. They learn to discipline themselves to a complete rejection of any kind of negative craving or false temptation and continue practicing positive choices.
                 </div>
                 <div class="col col-xs-12 ">
-                    <h2><strong>Ibogaine Dosage and Treatment</strong></h2> For the safety of our patients, all potential customers must be screened by our medical staff before being approved for Ibogaine treatment. This allows us to prepare a treatment that fits perfectly with your condition and needs. Your<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment will begin upon your arrival at our Facility in Mexico. Most patients will need to allocate a minimum of 5-7 days for the treatment, though many may need more days for full recovery. The length of treatment will depend on the history of the addictive behavior.
+                    <h2><strong>Ibogaine Dosage and Treatment</strong></h2> For the safety of our patients, all potential customers must be screened by our medical staff before being approved for Ibogaine treatment. This allows us to prepare a treatment that fits perfectly with your condition and needs. Your<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment will begin upon your arrival at our Facility in Mexico. Most patients will need to allocate a minimum of 5-7 days for the treatment, though many may need more days for full recovery. The length of treatment will depend on the history of the addictive behavior.
                     <h4>Day One – Assesment</h4> Day One is devoted to patient assesment. You’ll be able to settle in and spend about two hours finalizing paperwork. If needed, patients will be provided with prescription medications to treat the symptoms of withdrawal. Any other medical needs that arise will also be addressed. The patient needs to be comfortable and stabilized in preparation for the Ibogaine treatment.
-                    <h4>Day Two – Administration of Ibogaine</h4> Ibogaine is usually administered in <strong>capsule form.</strong> Traditional doses are 500-800mg, depending on the body weight of the patient. However at this facility, we have created a host of unique and customized protocols of verying doses and will prescribe one of these based on your intake screening. These protocols may spread out the<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>dosage over a period of time. Most patients will feel the effect of the Ibogaine within one hour.
+                    <h4>Day Two – Administration of Ibogaine</h4> Ibogaine is usually administered in <strong>capsule form.</strong> Traditional doses are 500-800mg, depending on the body weight of the patient. However at this facility, we have created a host of unique and customized protocols of verying doses and will prescribe one of these based on your intake screening. These protocols may spread out the<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>dosage over a period of time. Most patients will feel the effect of the Ibogaine within one hour.
                     <h4>Days Three and Four – Introspection, Forgiveness, Healing, Freedom from Addiction</h4> For part of the initial Ibogaine treatment, the patient will be in a darkened, quiet room. Most patients generally do not want food during the <strong>Flood Dose</strong>.  Patients will be constantly monitored by our trained medical staff throughout the entire treatment. Medical staff will also encourage hydration, as many patients forget to drink during the initial experience. While the Ibogaine is active, the patient may find themselves in a deep and introspective state. Most will be able to reflect on past events with a clarity and truth they could not have otherwise obtained. This allows the patient to forgive themselves and others, as well as to let go of any resentments and hatred to which they may still cling. Removing these negative emotions allows the neurotransmitters in the patient’s brain to reset. Freedom from an emotional past allows the patient to look to a new future, one full of opportunities and free of drug addiction and destructive tendencies.
                     <h4>Day 5-7: The Beginning of a New Life</h4> Patients are encouraged to call friends, family, and loved ones.  These calls promote a feeling of connectedness and belonging. To prevent additional stresses, it is recommended that these patients do not discuss any major life decisions until all the short term effects of the Ibogaine treatment have worn off. This usually takes several days. After the primary effects of the treatment have worn off, the patient will be able to consult with one of our trained Coordinators.  Additionally, patients will be encouraged to begin conversations with our counseling staff.  All of these steps help to increase the effectiveness of the Ibogaine treatment. Most of Day Five is used to allow the patient to regain physical and emotional control and stability. Many patients find that they rediscover a zest for life that was lost during the course of their addiction. One of the most popular and highly recommended activities is the “victory hike” which can be scheduled for the afternoon before the patient’s departure. This event is designed for the patient to reflect on their experience at the Ibogaine Clinic, as well as to provide time to experience the joy and beauty of nature. Primarily, it gives the patient the opportunity to complete their first challenge as a person without addiction. This activity shows the patient that they are a new person with unlimited potential. The goal of all drug treatment programs is to provide empowerment and freedom.
                     <h4>Departure</h4> Most patients, once they have recovered from the immediate effects of the Ibogaine, are able to leave the facility on the morning of Day Five. Many prefer to stay for additional time to enjoy their new lease on life in beautiful Mexico.  We encourage patients to stay as long as they feel is necessary, and most will stay for at least seven days.
                 </div>
                 <div class="col col-xs-12 col-md-6">
                     <h2><strong>After Ibogaine Treatment</strong></h2> Once the patient returns to his or her previous life, they will be contacted by staff members from the Original Ibogaine Clinic by David Dardasti. Patients are encouraged to reach out to staff members as often as needed, to prevent the patient from relapsing into addiction. Staff members keep a copy of each patient’s treatment goals handy at the clinic. This enables the staff members to help patients with their recovery. This help is vital for the maintenance of a healthy life.
-                    <br> People who have already completed their<a href="http://ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatments often wish to get involved with helping others through their treatment processes. This is a healthy and in many cases vital part of their recovery. It helps the patients to regain a sense of purpose, and to rebuild their sense of self-worth. Our facility maintains a constantly updated database of former Patients. We can give referrals to help with networking. In the interest of privacy, names and phone numbers are only given out after written consent forms are obtained. If you have any questions please feel free to call us at 1 888-462-1164 or send us an email directly through our website. We are happy to answer any and all questions you may have.
+                    <br> People who have already completed their<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatments often wish to get involved with helping others through their treatment processes. This is a healthy and in many cases vital part of their recovery. It helps the patients to regain a sense of purpose, and to rebuild their sense of self-worth. Our facility maintains a constantly updated database of former Patients. We can give referrals to help with networking. In the interest of privacy, names and phone numbers are only given out after written consent forms are obtained. If you have any questions please feel free to call us at 1 888-462-1164 or send us an email directly through our website. We are happy to answer any and all questions you may have.
                 </div>
                 <div class="col col-xs-12 col-md-6">
                     <div class="responsive-video">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/IRcvDs5lPCk" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="//www.youtube.com/embed/IRcvDs5lPCk" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
             <!--=== End Content Part ===-->
 
             <!--Contact Us Form-->
-            <form method="post" id="sky-form3" class="sky-form" action="https://formspree.io/inquiry@ibogaineclinic.com">
-                <input type="hidden" name="_next" value="https://ibogaineclinic.github.io/homepage/#contact-us" />
+            <form method="post" id="sky-form3" class="sky-form" action="//formspree.io/inquiry@ibogaineclinic.com">
+                <input type="hidden" name="_next" value="//ibogaineclinic.github.io/homepage/#contact-us" />
                 <header>Contact Us</header>
 
                 <fieldset>
@@ -259,29 +259,29 @@
             <section class="footer g-pt-40 g-pb-20" id="footer">
                 <div class="container">
                     <div class="g-display-table g-xs-display-table--disable">
-                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="http://ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben</a></div>
+                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben</a></div>
                         <div class="g-display-td g-display-td-20 g-xs-display-td--disable g-text-middle text-center g-xs-mb-10">
                             <ul class="social-icons">
                                 <li>
-                                    <a alt="facebook" class="rounded-x social_facebook" data-original-title="Facebook" href="https://www.facebook.com/Ibogaineclinic" target="_blank"></a>
+                                    <a alt="facebook" class="rounded-x social_facebook" data-original-title="Facebook" href="//www.facebook.com/Ibogaineclinic" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="twitter" class="rounded-x social_twitter" data-original-title="Twitter" href="https://twitter.com/ibogainedavidd" target="_blank"></a>
+                                    <a alt="twitter" class="rounded-x social_twitter" data-original-title="Twitter" href="//twitter.com/ibogainedavidd" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="google plus" class="rounded-x social_googleplus" data-original-title="Goole Plus" href="https://plus.google.com/+Ibogaineclinic/" target="_blank"></a>
+                                    <a alt="google plus" class="rounded-x social_googleplus" data-original-title="Goole Plus" href="//plus.google.com/+Ibogaineclinic/" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="tumblr" class="rounded-x social_tumblr" data-original-title="Tumblr" href="https://ibogainebydavid.tumblr.com/" target="_blank"></a>
+                                    <a alt="tumblr" class="rounded-x social_tumblr" data-original-title="Tumblr" href="//ibogainebydavid.tumblr.com/" target="_blank"></a>
                                 </li>
                                 <li>
                                     <a alt="linkedin" class="rounded-x social_linkedin" data-original-title="Linkedin" href="www.linkedin.com/pub/david-dardashti" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="instagram" class="rounded-x social_instagram" data-original-title="Instagram" href="https://instagram.com/ibogaineclinic" target="_blank"></a>
+                                    <a alt="instagram" class="rounded-x social_instagram" data-original-title="Instagram" href="//instagram.com/ibogaineclinic" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="youtube" class="rounded-x social_youtube" data-original-title="Youtube" href="https://www.youtube.com/ibogainealternative" target="_blank"></a>
+                                    <a alt="youtube" class="rounded-x social_youtube" data-original-title="Youtube" href="//www.youtube.com/ibogainealternative" target="_blank"></a>
                                 </li>
 
                             </ul>
@@ -305,30 +305,30 @@
 
 
         <!-- JS Global Compulsory -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.0/jquery-migrate.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.0/jquery-migrate.min.js"></script>
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
         <!-- JS Implementing Plugins -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js"></script>
-        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
 
 
 
-        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
-        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
-        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
-        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
 
 
         <!-- JS Page Level -->
-        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/app.js"></script>
-        <script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/custom.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/app.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/custom.js"></script>
 
 
 
         <!--[if lt IE 10]>
-	<script src="https://clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
+	<script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
 <![endif]-->
     </body>
 
