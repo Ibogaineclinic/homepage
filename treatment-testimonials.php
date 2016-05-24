@@ -151,10 +151,16 @@
                         <iframe width="560" height="315" src="//www.youtube.com/embed/8_evBCMSOqk" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
-                <div class="col col-sm-12">
+                <div class="col col-sm-12 col-md-6">
                     <h3 class="text-center margin-top-20">Take a look at more of our videos</h3>
                     <h4 class="text-center margin-top-20 ">
-            <a href="//www.youtube.com/user/ibogainealternative" target="_blank">//www.youtube.com/user/ibogainealternative</a>
+            <a href="www.youtube.com/user/ibogainealternative" target="_blank">www.youtube.com/user/ibogainealternative</a>
+                </h4>
+                </div>
+                <div class="col col-sm-12 col-md-6">
+                    <h3 class="text-center margin-top-20">Here is a whole bunch of written ones</h3>
+                    <h4 class="text-center margin-top-20 ">
+            <a href="//ibogaineclinic.com/ibogaine-treatment-testimonials/testimonials-written/" target="_blank">ibogaine-treatment-testimonials/testimonials-written/</a>
                 </h4>
                 </div>
             </div>
@@ -162,7 +168,7 @@
 
             <!--Contact Us Form-->
             <form method="post" id="sky-form3" class="sky-form" action="//formspree.io/inquiry@ibogaineclinic.com">
-                <input type="hidden" name="_next" value="//ibogaineclinic.github.io/homepage/#contact-us" />
+                <input type="hidden" name="_next" value="ibogaineclinic.github.io/homepage/#contact-us" />
                 <header>Contact Us</header>
 
                 <fieldset>
