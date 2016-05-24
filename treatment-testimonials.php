@@ -206,7 +206,7 @@
                             </label>
                         </div>
                         <div class="col col-4">
-                            <input type="submit" value="Send" class="button btn btn-block btn-lg">
+                            <input onclick="clicky.goal( 'Clicked contact submit' );" type="submit" value="Send" class="button btn btn-block btn-lg">
                         </div>
                     </div>
                 </fieldset>
