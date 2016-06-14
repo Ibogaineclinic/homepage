@@ -223,9 +223,9 @@
             </div>
             <!--=== End Content Part ===-->
 
-              <!--Contact Us Form-->
+            <!--Contact Us Form-->
             <form method="post" id="sky-form3" class="sky-form" action="//formspree.io/inquiry@ibogaineclinic.com">
-                <input type="hidden" name="_next" value="ibogaineclinic.github.io/homepage/#contact-us" />
+                <input type="hidden" name="_next" value="ibogaineclinic.com/ibogaine/#contact-us" />
                 <header>Contact Us</header>
 
                 <fieldset>
