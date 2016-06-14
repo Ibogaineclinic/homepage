@@ -156,7 +156,7 @@
                         <h2 class="">Ibogaine calculated carefully, applied precisely. by David Dardashti</h2>
 
                         <section class="cta">
-                            <h3 class="hidden-xs text col-sm-offset-1 col-xs-6 col-sm-5">Begin your journey!</h3>
+                            <a href="#contact-us" onclick="clicky.goal( 'Clicked contact journey' );"><h3 class="hidden-xs text col-sm-offset-1 col-xs-6 col-sm-5">Begin your journey!</h3></a>
                             <div class="visible-xs text col-sm-offset-1 col-xs-6 col-sm-5">The “Original Ibogaine Clinic”</div>
                             <div class="arrow hidden-xs col-sm-1 color-brown"><i class="icon-append fa fa-chevron-right banner-arrow-space"></i></div>
                             <div class="phone hidden-xs col-xs-6 col-sm-5 g-bg-aqua"><i class="fa fa-phone"></i><a onclick="clicky.goal( 'Clicked phone' );" alt="phone number 18884621164" href="tel:1-888-462-1164">1 888-462-1164</a></div>
