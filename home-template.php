@@ -17,12 +17,28 @@
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon.ico">
-
+        <link rel="apple-touch-icon" sizes="57x57" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
         <!-- Web Fonts -->
-        <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+        <link type="text/css" rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/family=Roboto.css">
 
         <!-- CSS Global Compulsory -->
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
 
         <!-- CSS Header and Footer -->
@@ -152,7 +168,7 @@
                                 <div class="phone col-xs-6 col-sm-5 g-bg-aqua visible-xs"><i class="fa fa-phone"></i><span class="InfinityNumber13377 clickable">1-888-462-1164</span></div>
                             </a>
                         </div>
-                        <h1 class="">Ibogaine heals - <span class="hidden-xs"> We have treated over 3,000 patients since 2004 </span></h1>
+                        <h1 class="">Our Clinic heals - <span class="hidden-xs"> We have treated over 3,000 patients since 2004 </span></h1>
                         <h2 class="">Ibogaine calculated carefully, applied precisely. by David Dardashti</h2>
 
                         <section class="cta">
@@ -162,7 +178,7 @@
                             <div class="phone hidden-xs col-xs-6 col-sm-5 g-bg-aqua"><i class="fa fa-phone"></i><a onclick="clicky.goal( 'Clicked phone' );" alt="phone number 18884621164" href="tel:1-888-462-1164">1 888-462-1164</a></div>
                             <!--end cta-->
                         </section>
-                        <h4 class="proof col-xs-12 col-sm-offset-1 col-sm-10"><a onclick="clicky.goal( 'Clicked proof' );" alt="Our treatments work" href="./ibogaine-treatment-testimonials/">Our Ibogaine treatments work! Need some proof? Click Here <i class="icon-append fa fa-chevron-right"></i></a></h4>
+                        <h4 class="proof col-xs-12 col-sm-offset-1 col-sm-10"><a onclick="clicky.goal( 'Clicked proof' );" alt="Our treatments work" href="./ibogaine-treatment-testimonials/">Our treatments work! Need some proof? Click Here <i class="icon-append fa fa-chevron-right"></i></a></h4>
                         <!-- Video Controls -->
                     </article>
                     <!-- Video Controls -->
@@ -186,7 +202,7 @@
             <!-- CTA Section -->
             <section class="cta-section g-bg-aqua text-center">
                 <h3 class="">
-                Ibogaine for your needs
+                Get clean pain free next week!
                 <a alt="Contact us" class="btn-u btn-u-lg btn-u-upper rounded" type="submit" href="#contact-us" onclick="clicky.goal( 'Clicked contact 1' );">Contact Us</a>
             </h3>
             </section>
@@ -194,7 +210,7 @@
             <!-- Four Columns -->
             <div class="container content treated-drugs">
                 <h4 class="g-color-default">For both Medical Afflictions and Addictions</h4>
-                <p>Ibogaine is an herbal extract usually administered in capsule form. Ibogaine does not cure anything. It is a trigger to reignite your body to heal itself. We are able to treat more than just Addictions, which Ibogaine is already well known for. Many Medical conditions both physical and mental, respond very well to Ibogaine as a healing trigger. Your body is a very complex powerful machine, even when it’s ill. ‘Maintenance medications’ and drugs of all kinds can help treat symptoms or cover the problem. Nothing can compare to your body working in overtime to truly heal. Addiction is a much simpler protocol than what we need for different Medical Conditions. Please Contact Us Directly if you would like to be treated for a Medical Condition other than addiction. Many of the effects you see on our website, only apply to those who receive an Addiction ‘Flood Dose’ of Ibogaine. Most illnesses/medical conditions do NOT require a flood dose, so the response from your body is much gentler and the process is longer(10 plus days).
+                <p>Ibogaine is an herbal extract usually administered in capsule form. This herbal extract does not cure anything. It is a trigger to reignite your body to heal itself. We are able to treat more than just Addictions, which Ibogaine is already well known for. Many Medical conditions both physical and mental, respond very well to our treatment as a healing trigger. Your body is a very complex powerful machine, even when it’s ill. ‘Maintenance medications’ and drugs of all kinds can help treat symptoms or cover the problem. Nothing can compare to your body working in overtime to truly heal. Addiction is a much simpler protocol than what we need for different Medical Conditions. Please Contact Us Directly if you would like to be treated for a Medical Condition other than addiction. Many of the effects you see on our website, only apply to those who receive an Addiction ‘Flood Dose’ of Ibogaine. Most illnesses/medical conditions do NOT require a flood dose, so the response from your body is much gentler and the process is longer(10 plus days).
                 </p>
                 <h4 class="g-color-default">About our clinic</h4>
                 <video class="visible-xs embed-responsive col-xs-12" controls id="video-mobile" poster="//clinicpull-3b72.kxcdn.com/wp-content/uploads/2016/03/videostartimage.png">
@@ -203,9 +219,9 @@
                     <source class="embed-responsive-item" src="//ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
                 </video>
                 <div class="text-center margin-bottom-50">
-                    <h5>We are the “Official” Ibogaine Clinic. We have treated over 3,000 patients and counting since opening the doors over 10 years ago providing the most sophisticated<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatments available.</h5>
+                    <h5>We are the “Official” Ibogaine Clinic. Our facility has treated over 3,000 patients and counting since opening the doors over 10 years ago providing the most sophisticated<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatments available.</h5>
 
-                    <p class="">We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from addiction. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. Many of us at Ibogaine Clinic were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine, anyone can arrest their addictions and forward. The original<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is located in a safe tropical paradise setting outside Playa Del Carmen that inspires a life lasting body, mind and spiritual change.</p>
+                    <p class="">We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from addiction. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. Many of us at Clinic were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine, anyone can arrest their addictions and forward. The original<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is located in a safe tropical paradise setting outside Playa Del Carmen that inspires a life lasting body, mind and spiritual change.</p>
                 </div>
                 <h2 class="title-v2 title-center">IBOGAINE TREATMENT AVAILABLE FOR</h2>
                 <div class="row  margin-bottom-30">
@@ -267,7 +283,7 @@
             <!-- CTA Section -->
             <section class="cta-section g-bg-aqua text-center">
                 <h4 class="">
-                Ibogaine detox and Research Center
+                Find out how you can get clean pain-free
                 <a onclick="clicky.goal( 'Clicked contact 2' );" alt="Contact us" class="btn-u btn-u-lg btn-u-upper rounded" type="submit" href="#contact-us">Contact Us</a>
             </h4>
             </section>
@@ -283,7 +299,7 @@
                                 <i class="fa fa-medkit g-color-default rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>Quality Service</h3>
-                                    <p>Every patient is treated for their individual Ibogaine needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>HCL. Since 2004 our patients have been treated without the experiencing traditional symptoms of withdrawal. Our Ibogaine clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
+                                    <p>Every patient is treated for their individual needs by,<strong> David Dardashti.</strong> We only use the highest medical grade<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>HCL. Since 2004 our patients have been treated without the experiencing traditional symptoms of withdrawal. Our clinic has never had any medical emergencies tied to our treatments. We take pride in being the safest Ibogaine treatment facility in the world.</p>
                                 </div>
                             </div>
                         </div>
@@ -306,7 +322,7 @@
                                 <i class="fa fa-heartbeat color-brown rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>24 Hour monitoring</h3>
-                                    <p>A 24/7 medical staff of doctors, nurses and coaches that understand Ibogaine and its use in <strong>Detox and Rehab.</strong> You can be sure your needs will be looked after by friendly certified health professionals familiar with your needs.</p>
+                                    <p>A 24/7 medical staff of doctors, nurses and coaches that understand our protocals and its use in <strong>Detox and Rehabilitation.</strong> You can be sure your needs will be looked after by friendly certified health professionals familiar with your needs.</p>
 
 
                                 </div>
@@ -317,7 +333,7 @@
                                 <i class="fa fa-star g-color-default rounded-x "></i>
                                 <div class="service-block-desc">
                                     <h3>Certified Health Care</h3>
-                                    <p>The original <strong>Ibogaine Clinic</strong> uses an EKG and other equipment like you would find at any modern detox center. Your Blood Pressure and Heart Rate can be monitored constantly, to verify your heart and body are on the right track for healing and renewal.</p>
+                                    <p>Our <strong>facility</strong> uses an EKG and other equipment, you would find at any modern detox center. Your Blood Pressure and Heart Rate can be monitored constantly, to verify your heart and body are on the right track for healing and renewal.</p>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +345,7 @@
             <!-- CTA Section -->
             <section class="cta-section g-bg-aqua text-center">
                 <h3 class="">
-                Get clean with Ibogaine Detox next week
+                Get clean next week
                 <a onclick="clicky.goal( 'Clicked contact 3' );" alt="Contact us" class="btn-u btn-u-lg btn-u-upper rounded" type="submit" href="#contact-us">Contact Us</a>
             </h3>
             </section>
@@ -429,7 +445,7 @@
                 </fieldset>
                 <div class="message">
                     <i class="rounded-x fa fa-check"></i>
-                    <p>Your message was successfully sent to the Original Ibogaine Clinic!</p>
+                    <p>Your message was successfully sent to the Original IbogaineClinic!</p>
                 </div>
             </form>
             <!--End Contact Us Form-->
@@ -438,7 +454,7 @@
             <section class="footer g-pt-40 g-pb-20" id="footer">
                 <div class="container">
                     <div class="g-display-table g-xs-display-table--disable">
-                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben</a></div>
+                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben Last update 6/16/2016</a></div>
                         <div class="g-display-td g-display-td-20 g-xs-display-td--disable g-text-middle text-center g-xs-mb-10">
                             <ul class="social-icons">
                                 <li>
@@ -484,12 +500,12 @@
 
 
         <!-- JS Global Compulsory -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.0/jquery-migrate.min.js"></script>
-        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/jquery.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/jquery-migrate.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/bootstrap.min.js"></script>
 
         <!-- JS Implementing Plugins -->
-        <script src="//cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/SmoothScroll.min.js"></script>
         <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
 
 

@@ -17,12 +17,28 @@
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon.ico">
-
+        <link rel="apple-touch-icon" sizes="57x57" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
         <!-- Web Fonts -->
-        <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+        <link type="text/css" rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/family=Roboto.css">
 
         <!-- CSS Global Compulsory -->
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
 
         <!-- CSS Header and Footer -->
@@ -225,7 +241,7 @@
             <section class="footer g-pt-40 g-pb-20" id="footer">
                 <div class="container">
                     <div class="g-display-table g-xs-display-table--disable">
-                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben</a></div>
+                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben Last update 6/16/2016</a></div>
                         <div class="g-display-td g-display-td-20 g-xs-display-td--disable g-text-middle text-center g-xs-mb-10">
                             <ul class="social-icons">
                                 <li>
@@ -271,12 +287,12 @@
 
 
         <!-- JS Global Compulsory -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.0/jquery-migrate.min.js"></script>
-        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/jquery.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/jquery-migrate.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/bootstrap.min.js"></script>
 
         <!-- JS Implementing Plugins -->
-        <script src="//cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/SmoothScroll.min.js"></script>
         <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
 
 

@@ -19,10 +19,10 @@
         <link rel="shortcut icon" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon.ico">
 
         <!-- Web Fonts -->
-        <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+        <link type="text/css" rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/family=Roboto.css">
 
         <!-- CSS Global Compulsory -->
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/one.style.css">
 
         <!-- CSS Header and Footer -->
@@ -155,7 +155,7 @@
             </div>
             <!--=== End Content Part ===-->
 
-              <!--Contact Us Form-->
+            <!--Contact Us Form-->
             <form method="post" id="sky-form3" class="sky-form" action="//formspree.io/inquiry@ibogaineclinic.com">
                 <input type="hidden" name="_next" value="ibogaineclinic.com/#contact-us" />
                 <header>Contact Us</header>
@@ -207,7 +207,7 @@
             <section class="footer g-pt-40 g-pb-20" id="footer">
                 <div class="container">
                     <div class="g-display-table g-xs-display-table--disable">
-                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben</a></div>
+                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben Last update 6/16/2016</a></div>
                         <div class="g-display-td g-display-td-20 g-xs-display-td--disable g-text-middle text-center g-xs-mb-10">
                             <ul class="social-icons">
                                 <li>
@@ -253,12 +253,12 @@
 
 
         <!-- JS Global Compulsory -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.0/jquery-migrate.min.js"></script>
-        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/jquery.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/jquery-migrate.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/bootstrap.min.js"></script>
 
         <!-- JS Implementing Plugins -->
-        <script src="//cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js"></script>
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/SmoothScroll.min.js"></script>
         <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/jquery.easing.min.js"></script>
 
 
