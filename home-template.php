@@ -1,5 +1,6 @@
 <?php /* Template Name: home page */ ?>
     <!DOCTYPE html>
+    <!-- Microdata markup added by Google Structured Data Markup Helper. -->
     <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
     <!--[if !IE]><!-->
     <html lang="en" id="home">
@@ -73,7 +74,7 @@
 
 
         <!--Main Content wrapper-->
-        <main class="wrapper page">
+        <main itemscope itemtype="http://schema.org/LocalBusiness" class="wrapper page">
 
             <!--=== Header v6 ===-->
             <div class="header-v6 header-border-bottom header-sticky">
@@ -92,7 +93,7 @@
                             <!-- Navbar Brand -->
                             <div class="navbar-brand">
                                 <a class="" href="//ibogaineclinic.com/" alt="home logo">
-                                    <img src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
+                                    <img itemprop="image" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"><span itemprop="name">Ibogaine Clinic</span>
                                 </a>
                             </div>
 
@@ -165,7 +166,7 @@
                     <article class="container ">
                         <div class="cta-2">
                             <a alt="phone number 18884621164" href="tel:1-888-462-1164">
-                                <div class="phone col-xs-6 col-sm-5 g-bg-aqua visible-xs"><i class="fa fa-phone"></i><span class="InfinityNumber13377 clickable">1-888-462-1164</span></div>
+                                <div class="phone col-xs-6 col-sm-5 g-bg-aqua visible-xs"><i class="fa fa-phone"></i><span itemprop="telephone" class="InfinityNumber13377 clickable">1-888-462-1164</span></div>
                             </a>
                         </div>
                         <h1 class="">Our Clinic heals - <span class="hidden-xs"> We have treated over 3,000 patients since 2004 </span></h1>
