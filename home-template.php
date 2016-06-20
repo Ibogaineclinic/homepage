@@ -211,7 +211,7 @@
             </section>
             <!-- End CTA Section -->
             <!--As seen on TV-->
-            <section class="as-seen-on container">
+            <section class="as-seen-on container content">
                 <h3 class="text-center">Ibogaine as Featured on</h3>
                 <div class="col-xs-6 col-md-2">
                     <a href="http://www.cbsnews.com/news/brooke-mueller-heads-to-mexico-for-extreme-rehab-whats-that/">

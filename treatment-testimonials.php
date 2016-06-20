@@ -153,7 +153,7 @@
             <!--=== Content Part ===-->
             <div class="container-fluid content">
                 <div class="col col-md-6 col-sm-12">
-                    <h2 class="text-center">Ibogaine Testimonial Videos</h2>
+                    <h1 class="text-center">Ibogaine Testimonial Videos</h1>
                     <p class="text-center">Here you will find a number of experiences shared by individuals who were treated for an array of different physical, mental or spiritual illness. Each person in each of the videos below were treated by David Dardashti personally using one of his unique protocols in order to maximize detoxification and personal wellbeing. Please do not hesitate to call or message us with any questions you may have about the Ibogaine treatment process.</p>
                     <div class="responsive-video">
                         <iframe width="560" height="315" src="//www.youtube.com/embed/Y97ZVMbs6YU" frameborder="0" allowfullscreen></iframe>

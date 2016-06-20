@@ -17,7 +17,7 @@
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon.ico">
-<link rel="apple-touch-icon" sizes="57x57" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="57x57" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-60x60.png">
         <link rel="apple-touch-icon" sizes="72x72" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="76x76" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-76x76.png">
@@ -176,7 +176,9 @@
                 </div>
                 <div class="row">
                     <div class="col col-md-6 col-xs-12">
-                        <iframe width="560" height="315" src="//www.youtube.com/embed/dAy-U1OqpMI" frameborder="0" allowfullscreen></iframe>
+                        <div class="responsive-video">
+                            <iframe width="560" height="315" src="//www.youtube.com/embed/dAy-U1OqpMI" frameborder="0" allowfullscreen></iframe>
+                        </div>
                     </div>
                     <div class="col col-md-6 col-xs-12">
                         <h2>Ibogaine Effects</h2> After an Ibogaine treatment, many people find it easier to handle internal issues that may have encouraged destructive behavior in the past. It becomes easier to change destructive behaviors, and to be more receptive to therapies. About 75% of the flood dose patients experience the vivid visual effects that Ibogaine can produce. Many patients sleep through the effects of Ibogaine, or experience quick thoughts and flashes. <a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>itself is not addictive.
