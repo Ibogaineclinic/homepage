@@ -90,8 +90,8 @@
                                 <ul class="nav navbar-nav">
                                     <!-- Home -->
                                     <li class="">
-                                        <a alt="Treatment Program" href="//ibogaineclinic.com/ibogaine-treatment">
-										Treatment Program
+                                        <a alt="Ibogaine Treatment" href="//ibogaineclinic.com/ibogaine-treatment">
+										Ibogaine Treatment
 									</a>
                                     </li>
                                     <li class="">

@@ -504,3 +504,6 @@ form input.button.btn.btn-block.btn-lg {
 .width-100 {
     width: 100%;
 }
+.as-seen-on img {
+    height: auto;
+}

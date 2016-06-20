@@ -45,6 +45,8 @@
         <!-- CSS Header and Footer -->
         <!--<link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">-->
 
+
+        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/video.js"></script>
         <!-- CSS Implementing Plugins -->
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/animate.css">
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons/line-icons.css">
@@ -107,8 +109,8 @@
                                 <ul class="nav navbar-nav">
                                     <!-- Home -->
                                     <li class="">
-                                        <a alt="Treatment Program" href="//ibogaineclinic.com/ibogaine-treatment">
-										Treatment Program
+                                        <a alt="Ibogaine Treatment" href="//ibogaineclinic.com/ibogaine-treatment">
+										Ibogaine Treatment
 									</a>
                                     </li>
                                     <li class="">
@@ -208,6 +210,40 @@
             </h3>
             </section>
             <!-- End CTA Section -->
+            <!--As seen on TV-->
+            <section class="as-seen-on container">
+                <h3 class="text-center">Ibogaine as Featured on</h3>
+                <div class="col-xs-6 col-md-2">
+                    <a href="http://www.cbsnews.com/news/brooke-mueller-heads-to-mexico-for-extreme-rehab-whats-that/">
+                        <img class="img-responsive" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/cbs.jpg">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-2">
+                    <a href="https://www.youtube.com/watch?v=tXOn5V_mnFI">
+                        <img class="img-responsive" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/foxnews.jpg">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-2">
+                    <a href="//ibogaineclinic.com/check-david-dardashti-page-25-sober-world-magazine/">
+                        <img class="img-responsive" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/soberworld.jpg">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-2">
+                    <a href="https://www.youtube.com/user/ibogainealternative">
+                        <img class="img-responsive" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/YouTube-logo-full_color.png">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-2">
+                    <a href="https://www.youtube.com/watch?v=V5vRbSuijgs">
+                        <img class="img-responsive" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/joe_rogan.jpg">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-2">
+                    <a href="https://www.thefix.com/content/can-ibogaine-curb-afghanistan%E2%80%99s-heroin-problem">
+                        <img class="img-responsive" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/thefix.jpg">
+                    </a>
+                </div>
+            </section>
             <!-- Four Columns -->
             <div class="container content treated-drugs">
                 <h4 class="g-color-default">For both Medical Afflictions and Addictions</h4>
@@ -222,7 +258,7 @@
                 <div class="text-center margin-bottom-50">
                     <h5>We are the “Official” Ibogaine Clinic. Our facility has treated over 3,000 patients and counting since opening the doors over 10 years ago providing the most sophisticated<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatments available.</h5>
 
-                    <p class="">We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from addiction. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. Many of us at Clinic were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical treatment, through Ibogaine, anyone can arrest their addictions and forward. The original<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is located in a safe tropical paradise setting outside Playa Del Carmen that inspires a life lasting body, mind and spiritual change.</p>
+                    <p class="">We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from addiction. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. Many of us at Clinic were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical Ibogaine treatment, anyone can arrest their addictions and forward. The original<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is located in a safe tropical paradise setting outside Playa Del Carmen that inspires a life lasting body, mind and spiritual change.</p>
                 </div>
                 <h2 class="title-v2 title-center">IBOGAINE TREATMENT AVAILABLE FOR</h2>
                 <div class="row  margin-bottom-30">
@@ -519,7 +555,7 @@
         <!-- JS Page Level -->
         <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/app.js"></script>
         <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/custom.js"></script>
-        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/video.js"></script>
+
 
 
 
