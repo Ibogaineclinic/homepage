@@ -170,14 +170,20 @@
                 <div class="col col-sm-12 col-md-6">
                     <h3 class="text-center margin-top-20">Take a look at more of our videos</h3>
                     <h4 class="text-center margin-top-20 ">
-            <a href="//www.youtube.com/ibogainealternative" target="_blank">www.youtube.com/user/ibogainealternative</a>
-                </h4>
+                        <a href="//www.youtube.com/ibogainealternative" target="_blank">www.youtube.com/user/ibogainealternative</a>
+                    </h4>
                 </div>
                 <div class="col col-sm-12 col-md-6">
-                    <h3 class="text-center margin-top-20">Here are a whole bunch of written ones</h3>
+                    <h3 class="text-center margin-top-20">Here are a whole bunch of written testimonials</h3>
                     <h4 class="text-center margin-top-20 ">
-            <a href="//ibogaineclinic.com/ibogaine-treatment-testimonials/testimonials-written/" target="_blank">ibogaine-treatment-testimonials/testimonials-written/</a>
-                </h4>
+                        <a href="//ibogaineclinic.com/ibogaine-treatment-testimonials/testimonials-written/" target="_blank">ibogaine-treatment-testimonials/testimonials-written/</a>
+                    </h4>
+                </div>
+                <div class="col col-sm-12 col-md-12">
+                    <h3 class="text-center margin-top-20">Take a look at our before and after pictures</h3>
+                    <h4 class="text-center margin-top-20 ">
+                        <a href="//ibogaineclinic.com/ibogaine-treatment-before-and-after/" target="_blank">ibogaine-treatment-before-and-after/</a>
+                    </h4>
                 </div>
             </div>
             <!--=== End Content Part ===-->
