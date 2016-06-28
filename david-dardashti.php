@@ -238,7 +238,7 @@
             <section class="footer g-pt-40 g-pb-20" id="footer">
                 <div class="container">
                     <div class="g-display-table g-xs-display-table--disable">
-                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben Last update 6/16/2016</a></div>
+                        <div class="g-display-td g-display-td-40 g-xs-display-td--disable g-text-middle g-xs-mb-20">&copy; 2016 All right reserved. Development by <a href="//ben.notbitcoin.com/" target="_blank" alt="Devolped by ben">Ben</a> Last update 6/16/2016</div>
                         <div class="g-display-td g-display-td-20 g-xs-display-td--disable g-text-middle text-center g-xs-mb-10">
                             <ul class="social-icons">
                                 <li>
