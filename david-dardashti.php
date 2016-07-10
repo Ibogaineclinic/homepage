@@ -17,7 +17,7 @@
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/favicon.ico">
-<link rel="apple-touch-icon" sizes="57x57" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="57x57" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-60x60.png">
         <link rel="apple-touch-icon" sizes="72x72" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="76x76" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/apple-icon-76x76.png">
@@ -182,7 +182,7 @@
                     </div>
                 </div>
 
-                <a class="text-center" href="www.daviddardashti.com">Daviddardashti.com</a>
+                <a class="text-center" href="https://www.daviddardashti.com">Daviddardashti.com</a>
             </div>
             <!--=== End Content Part ===-->
 
@@ -254,10 +254,10 @@
                                     <a alt="tumblr" class="rounded-x social_tumblr" data-original-title="Tumblr" href="//ibogainebydavid.tumblr.com/" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="linkedin" class="rounded-x social_linkedin" data-original-title="Linkedin" href="www.linkedin.com/pub/david-dardashti" target="_blank"></a>
+                                    <a alt="linkedin" class="rounded-x social_linkedin" data-original-title="Linkedin" href="//www.linkedin.com/company/ibogaine-clinic-&-research-center-cancun" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="instagram" class="rounded-x social_instagram" data-original-title="Instagram" href="//instagram.com/ibogaineclinic" target="_blank"></a>
+                                    <a alt="instagram" class="rounded-x social_instagram" data-original-title="Instagram" href="////www.instagram.com/ibogainedaviddardashti/" target="_blank"></a>
                                 </li>
                                 <li>
                                     <a alt="youtube" class="rounded-x social_youtube" data-original-title="Youtube" href="//www.youtube.com/ibogainealternative" target="_blank"></a>

@@ -1,11 +1,9 @@
 window.onload = function () {
 
 
-
-
     // Video
     var video = document.getElementById("video");
-
+    video.volume = 0.3;
     // Buttons
     var playButton = document.getElementById("play-pause");
     var muteButton = document.getElementById("mute");
@@ -14,7 +12,7 @@ window.onload = function () {
     // Sliders
     var seekBar = document.getElementById("seek-bar");
     var volumeBar = document.getElementById("volume-bar");
-    video.volume = 0.3;
+
 
     // Event listener for the play/pause button
     playButton.addEventListener("click", function () {

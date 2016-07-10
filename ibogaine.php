@@ -309,10 +309,10 @@
                                     <a alt="tumblr" class="rounded-x social_tumblr" data-original-title="Tumblr" href="//ibogainebydavid.tumblr.com/" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="linkedin" class="rounded-x social_linkedin" data-original-title="Linkedin" href="www.linkedin.com/pub/david-dardashti" target="_blank"></a>
+                                    <a alt="linkedin" class="rounded-x social_linkedin" data-original-title="Linkedin" href="//www.linkedin.com/company/ibogaine-clinic-&-research-center-cancun" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="instagram" class="rounded-x social_instagram" data-original-title="Instagram" href="//instagram.com/ibogaineclinic" target="_blank"></a>
+                                    <a alt="instagram" class="rounded-x social_instagram" data-original-title="Instagram" href="////www.instagram.com/ibogainedaviddardashti/" target="_blank"></a>
                                 </li>
                                 <li>
                                     <a alt="youtube" class="rounded-x social_youtube" data-original-title="Youtube" href="//www.youtube.com/ibogainealternative" target="_blank"></a>

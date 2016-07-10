@@ -47,7 +47,7 @@
         <!--<link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/header-v6.css">-->
 
 
-        <script src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/js/video.js"></script>
+
         <!-- CSS Implementing Plugins -->
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/animate.css">
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/plugins/line-icons/line-icons.css">
@@ -66,7 +66,106 @@
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/pricing_v6.css">
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/custom.css">
 
+        <script type="text/javascript">
+            window.onload = function() {
 
+                // Video
+                var video = document.getElementById("video");
+                video.volume = 0.3;
+                // Buttons
+                var playButton = document.getElementById("play-pause");
+                var muteButton = document.getElementById("mute");
+                var fullScreenButton = document.getElementById("full-screen");
+
+                // Sliders
+                var seekBar = document.getElementById("seek-bar");
+                var volumeBar = document.getElementById("volume-bar");
+
+                // Event listener for the play/pause button
+                playButton.addEventListener("click", function() {
+                    if (video.paused == true) {
+                        // Play the video
+                        video.play();
+
+                        // Update the button text to 'Pause'
+                        //			playButton.removeClass('fa fa-pause').addClass('fa fa-play');
+                    } else {
+                        // Pause the video
+                        video.pause();
+
+                        // Update the button text to 'Play'
+                        //			playButton.removeClass('fa fa-play').addClass('fa fa-pause');
+                    }
+                });
+
+
+                // Event listener for the mute button
+                muteButton.addEventListener("click", function() {
+                    if (video.muted == false) {
+                        // Mute the video
+                        video.muted = true;
+
+                        // Update the button text
+                        //			muteButton.attr('class', 'fa fa-volume-up');
+                    } else {
+                        // Unmute the video
+                        video.muted = false;
+
+                        // Update the button text
+                        //			muteButton.attr('class', 'fa fa-volume-off');
+                    }
+                });
+
+
+                // Event listener for the full-screen button
+                fullScreenButton.addEventListener("click", function() {
+                    if (video.requestFullscreen) {
+                        video.requestFullscreen();
+                    } else if (video.mozRequestFullScreen) {
+                        video.mozRequestFullScreen(); // Firefox
+                    } else if (video.webkitRequestFullscreen) {
+                        video.webkitRequestFullscreen(); // Chrome and Safari
+                    }
+                });
+
+
+                // Event listener for the seek bar
+                seekBar.addEventListener("change", function() {
+                    // Calculate the new time
+                    var time = video.duration * (seekBar.value / 100);
+
+                    // Update the video time
+                    video.currentTime = time;
+                });
+
+
+                // Update the seek bar as the video plays
+                video.addEventListener("timeupdate", function() {
+                    // Calculate the slider value
+                    var value = (100 / video.duration) * video.currentTime;
+
+                    // Update the slider value
+                    seekBar.value = value;
+                });
+
+                // Pause the video when the seek handle is being dragged
+                seekBar.addEventListener("mousedown", function() {
+                    video.pause();
+                });
+
+                // Play the video when the seek handle is dropped
+                seekBar.addEventListener("mouseup", function() {
+                    video.play();
+                });
+
+                // Event listener for the volume bar
+                volumeBar.addEventListener("change", function() {
+                    // Update the video volume
+                    video.volume = volumeBar.value;
+                });
+            };
+
+        </script>
     </head>
     <!--
 	The data-spy and data-target are part of the built-in Bootstrap scrollspy function.
@@ -508,10 +607,10 @@
                                     <a alt="tumblr" class="rounded-x social_tumblr" data-original-title="Tumblr" href="//ibogainebydavid.tumblr.com/" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="linkedin" class="rounded-x social_linkedin" data-original-title="Linkedin" href="www.linkedin.com/pub/david-dardashti" target="_blank"></a>
+                                    <a alt="linkedin" class="rounded-x social_linkedin" data-original-title="Linkedin" href="//www.linkedin.com/company/ibogaine-clinic-&-research-center-cancun" target="_blank"></a>
                                 </li>
                                 <li>
-                                    <a alt="instagram" class="rounded-x social_instagram" data-original-title="Instagram" href="//instagram.com/ibogaineclinic" target="_blank"></a>
+                                    <a alt="instagram" class="rounded-x social_instagram" data-original-title="Instagram" href="////www.instagram.com/ibogainedaviddardashti/" target="_blank"></a>
                                 </li>
                                 <li>
                                     <a alt="youtube" class="rounded-x social_youtube" data-original-title="Youtube" href="//www.youtube.com/ibogainealternative" target="_blank"></a>
