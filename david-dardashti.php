@@ -62,7 +62,33 @@
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/pricing_v6.css">
         <link rel="stylesheet" href="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/css/custom.css">
 
+        <!-- Facebook Pixel Code -->
+        <script>
+            ! function(f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function() {
+                    n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = '2.0';
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window,
+                document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
 
+            fbq('init', '299338183739636');
+            fbq('track', "PageView");
+
+        </script>
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=299338183739636&ev=PageView&noscript=1" /></noscript>
+        <!-- End Facebook Pixel Code -->
     </head>
     <!--
 	The data-spy and data-target are part of the built-in Bootstrap scrollspy function.
