@@ -268,7 +268,7 @@
             <!--=== End Content Part ===-->
 
             <!--Contact Us Form-->
-            <form method="post" id="sky-form3" class="sky-form" action="//formspree.io/inquiry@ibogaineclinic.com">
+                       <form method="post" id="sky-form3" class="sky-form" action="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/contact-process.php">
                 <input type="hidden" name="_next" value="ibogaineclinic.com/ibogaine/#contact-us" />
                 <header>Contact Us</header>
 
