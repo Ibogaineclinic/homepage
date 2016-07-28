@@ -284,7 +284,7 @@
                             <label class="label">E-mail</label>
                             <label class="input">
                                 <i class="icon-append fa fa-envelope-o"></i>
-                                <input type="email" name="_replyto" id="email" required>
+                                <input type="email" name="email" id="email" required>
                             </label>
                             <label class="label">Phone Number</label>
                             <label class="input">
