@@ -7,14 +7,15 @@
     <!--<![endif]-->
 
     <head>
-        <title>Ibogaine Clinic | Treated 3,000+ patients - 2004</title>
+        <title>Ibogaine Treatment Centers | Ibogaine Clinic</title>
 
         <!-- Meta -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="The “Original Ibogaine Clinic” Drug &amp; Addiction Detox, Rehab and Research Center">
+        <meta name="description" content="Ibogaine Clinic is one of the trusted Ibogaine treatment centers in North America. We have treated over 3,000 patients and counting. Call us to book an appointment.">
         <meta name="author" content="David Dardashti">
+        <meta name="keywords" content="ibogaine facility, ibogaine addiction treatment facility, ibogaine rehabilitation clinic">
         <meta name="msvalidate.01" content="C963FD85B409411810F4CD3737EBB847" />
 
         <!-- Favicon -->
@@ -222,7 +223,7 @@
                             <!-- Navbar Brand -->
                             <div class="navbar-brand">
                                 <a class="" href="//ibogaineclinic.com/" alt="home logo">
-                                    <img itemprop="image" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"><span itemprop="name">Ibogaine Clinic</span>
+                                    <img itemprop="image" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine by David Dardashti Logo" title="The original ibogaine clinic logo"><span itemprop="name">Ibogaine Clinic</span>
                                 </a>
                             </div>
 
@@ -298,7 +299,7 @@
                                 <div class="phone col-xs-6 col-sm-5 g-bg-aqua visible-xs"><i class="fa fa-phone"></i><span itemprop="telephone" class="InfinityNumber13377 clickable">1-888-462-1164</span></div>
                             </a>
                         </div>
-                        <h1 class="">Our Clinic heals - <span class="hidden-xs"> We have treated over 3,000 patients since 2004 </span></h1>
+                        <h1 class="">Ibogaine Clinic <span class="hidden-xs"> We have treated over 3,000 patients since 2004 </span></h1>
                         <h2 class="">Ibogaine calculated carefully, applied precisely. by David Dardashti</h2>
 
                         <section class="cta">
@@ -342,7 +343,7 @@
                 <h3 class="text-center">Ibogaine as Featured on</h3>
                 <div class="col-xs-6 col-md-2">
                     <a href="http://www.cbsnews.com/news/brooke-mueller-heads-to-mexico-for-extreme-rehab-whats-that/">
-                        <img class="img-responsive" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/cbs.jpg">
+                        <img class="img-responsive" src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/cbs.jpg" alt="CBS Logo">
                     </a>
                 </div>
                 <div class="col-xs-6 col-md-2">
@@ -374,7 +375,7 @@
             <!-- Four Columns -->
             <div class="container content treated-drugs">
                 <h4 class="g-color-default">For both Medical Afflictions and Addictions</h4>
-                <p>Ibogaine is an herbal extract usually administered in capsule form. This herbal extract does not cure anything. It is a trigger to reignite your body to heal itself. We are able to treat more than just Addictions, which Ibogaine is already well known for. Many Medical conditions both physical and mental, respond very well to our treatment as a healing trigger. Your body is a very complex powerful machine, even when it’s ill. ‘Maintenance medications’ and drugs of all kinds can help treat symptoms or cover the problem. Nothing can compare to your body working in overtime to truly heal. Addiction is a much simpler protocol than what we need for different Medical Conditions. Please Contact Us Directly if you would like to be treated for a Medical Condition other than addiction. Many of the effects you see on our website, only apply to those who receive an Addiction ‘Flood Dose’ of Ibogaine. Most illnesses/medical conditions do NOT require a flood dose, so the response from your body is much gentler and the process is longer(10 plus days).
+                <p>Ibogaine is an herbal extract usually administered in capsule form. This herbal extract does not cure anything. It is a trigger to reignite your body to heal itself. At Ibogaine Clinic, one of the established Ibogaine treatment centers in North America, we are able to treat more than just Addictions, which Ibogaine is already well known for. Many Medical conditions both physical and mental, respond very well to our treatment as a healing trigger. Your body is a very complex powerful machine, even when it’s ill. ‘Maintenance medications’ and drugs of all kinds can help treat symptoms or cover the problem. Nothing can compare to your body working in overtime to truly heal. Addiction is a much simpler protocol than what we need for different Medical Conditions. Please Contact our Ibogaine treatment clinic directly if you would like to be treated for a Medical Condition other than addiction. Many of the effects you see on our website, only apply to those who receive an Addiction ‘Flood Dose’ of Ibogaine. Most illnesses/medical conditions do NOT require a flood dose, so the response from your body is much gentler and the process is longer (10 plus days).
                 </p>
                 <h4 class="g-color-default">About our clinic</h4>
                 <video class="visible-xs embed-responsive col-xs-12" controls id="video-mobile" poster="//clinicpull-3b72.kxcdn.com/wp-content/uploads/2016/03/videostartimage.png">
@@ -383,7 +384,9 @@
                     <source class="embed-responsive-item" src="//ibogaine-3b72.kxcdn.com/Activities20in20Playa20del20Carmen20ibogaine20by20.ogv" type="video/ogg">
                 </video>
                 <div class="text-center margin-bottom-50">
-                    <h5>We are the “Official” Ibogaine Clinic. Our facility has treated over 3,000 patients and counting since opening the doors over 10 years ago providing the most sophisticated<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatments available.</h5>
+                    <h5>We are the “Official” Ibogaine Clinic in the USA, for those who don’t mind travelling just
+
+south of border (as our physical location is in Mexico). Our facility has treated over 3,000 patients and counting since opening the doors over 10 years ago providing the most sophisticated<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatments available.</h5>
 
                     <p class="">We have good news, there is hope. That is the message we are trying to impart on everyone who suffers from addiction. No matter how hopeless and dire your situation may seem, you too can detox from your addiction and move on with your life. Many of us at Clinic were once in the same position as you. Today we live meaningful and fulfilling lives because of Ibogaine. With the proper medical Ibogaine treatment, anyone can arrest their addictions and forward. The original<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>Clinic is located in a safe tropical paradise setting outside Playa Del Carmen that inspires a life lasting body, mind and spiritual change.</p>
                 </div>

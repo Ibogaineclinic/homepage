@@ -6,13 +6,14 @@
     <!--<![endif]-->
 
     <head>
-        <title>Ibogaine Clinic | Ibogaine by David Dardashti</title>
+        <title>David Dardashti | Ibogaine Clinic</title>
 
         <!-- Meta -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Ibogaine Clinic by David Dardashti Davids story">
+        <meta name="description" content="Ibogaine Clinic is the brainchild of David Dardashti — an entrepreneur, theologian, musician, healer, and father. Learn more about him on our site.">
+        <meta name="keywords" content="about david dardashti, david dardasti’s story, ibogaine clinic">
         <meta name="author" content="David Dardashti">
 
         <!-- Favicon -->
@@ -118,7 +119,7 @@
                             <!-- Navbar Brand -->
                             <div class="navbar-brand">
                                 <a class="" href="//ibogaineclinic.com/" alt="home logo">
-                                    <img src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
+                                    <img src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine by David Dardashti Logo" title="The original ibogaine clinic logo"> IbogaineClinic
                                 </a>
                             </div>
 
@@ -190,6 +191,7 @@
                     <div class="col-xs-12 col-md-6">
                         <img src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/banners/Ibogaine-By-David-Dardashti.png" alt="David Dardashti">
                     </div>
+                    <h1>Ibogaine Treatment and Wellness Center by David Dardashti</h1>
                     <div class="col-xs-12 col-md-6">
                         David is an entrepreneur, theologian, musician, eternal student, healer and a father of six. His life is a whirlwind of ongoing education and entrepreneurial ventures; all fueled by his immense passion for life and learning. David grew up in Israel. After graduating high school and spending three years in the Israeli army, he moved to the United States where he attended Florida Atlantic University and received a BA in music. He turned his talents to business; becoming a large commercial real estate developer in the United States. For as long as he can remember, David has always had an interest in the wellness of others through various forms of support and guidance. He has presented countless lectures on live radio broadcasts blending spirituality and the latest world sciences. David still continues his learning through the Talmud and Kabala. His studies include the workings of the human psyche – both conscious and subconscious – and the role it plays in substance abuse. In response to a dramatic increase in substance abuse, depression, and PTSD, David began the development of an<a href="//ibogaineclinic.com/ibogaine/"> Ibogaine </a>treatment program and medical research center called the original Ibogaine Clinic.
                     </div>
@@ -213,7 +215,7 @@
             <!--=== End Content Part ===-->
 
             <!--Contact Us Form-->
-                       <form method="post" id="sky-form3" class="sky-form" action="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/contact-process.php">
+            <form method="post" id="sky-form3" class="sky-form" action="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/contact-process.php">
                 <input type="hidden" name="_next" value="ibogaineclinic.com/david-dardashti/#contact-us" />
                 <header>Contact Us</header>
 

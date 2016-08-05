@@ -6,13 +6,14 @@
     <!--<![endif]-->
 
     <head>
-        <title>Ibogaine Clinic | Ibogaine Treatment Testimonials</title>
+        <title>Ibogaine Treatment Testimonials | Ibogaine Clinic</title>
 
         <!-- Meta -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Ibogaine clinic in mexico customer treatment testimonials">
+        <meta name="description" content="Ibogaine Clinic has transformed thousands of lives through Ibogaine addiction therapy. See what some of them have to say on our site.">
+        <meta name="keywords" content="testimonials, testimonial videos, written testimonials">
         <meta name="author" content="David Dardashti">
 
         <!-- Favicon -->
@@ -118,7 +119,7 @@
                             <!-- Navbar Brand -->
                             <div class="navbar-brand">
                                 <a class="" href="//ibogaineclinic.com/" alt="home logo">
-                                    <img src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine clinic logo" title="The original ibogaine clinic logo"> IbogaineClinic
+                                    <img src="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/assets/img/logofiles/ibogaine-by-David-Dardashti-logo-57-2.png" alt="Ibogaine by David Dardashti Logo" title="The original ibogaine clinic logo"> IbogaineClinic
                                 </a>
                             </div>
 
@@ -180,6 +181,7 @@
             <div class="container-fluid content">
                 <div class="col col-md-6 col-sm-12">
                     <h1 class="text-center">Ibogaine Testimonial Videos</h1>
+                    <h2>Ask us why most of or new friends do these videos for us.</h2>
                     <p class="text-center">Here you will find a number of experiences shared by individuals who were treated for an array of different physical, mental or spiritual illness. Each person in each of the videos below were treated by David Dardashti personally using one of his unique protocols in order to maximize detoxification and personal wellbeing. Please do not hesitate to call or message us with any questions you may have about the Ibogaine treatment process.</p>
                     <div class="responsive-video">
                         <iframe width="560" height="315" src="//www.youtube.com/embed/Y97ZVMbs6YU" frameborder="0" allowfullscreen></iframe>
@@ -215,7 +217,7 @@
             <!--=== End Content Part ===-->
 
             <!--Contact Us Form-->
-                       <form method="post" id="sky-form3" class="sky-form" action="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/contact-process.php">
+            <form method="post" id="sky-form3" class="sky-form" action="//clinicpull-3b72.kxcdn.com/wp-content/themes/BootstrapWP-child/contact-process.php">
                 <input type="hidden" name="_next" value="ibogaineclinic.com/ibogaine-treatment-testimonials/#contact-us" />
                 <header>Contact Us</header>
 
