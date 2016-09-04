@@ -1,0 +1,58 @@
+/*
+Theme Name:   BootstrapWP-child
+Theme URI:    
+Description:  The iboga bootstrap theme
+Author:       Ben Ullrich
+Author URI:   http://example.com
+Template:     healthflex
+Version:      2.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  healthflex
+Tags:         
+*/
+
+.menu_container ul.main_menu li.home-logo a {
+	background-image: url('//ibogaineclinic.com/wp-content/uploads/2016/08/Logo-Version-3-small.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: contain;
+	padding: 75px 100px;
+	font-size: 0px;
+}
+.menu_container ul.main_menu li {
+	margin-top: 80px;
+}
+.menu_container ul.main_menu li.home-logo,
+.menu_container ul.main_menu ul.menu-dropdown li.menu_container ul.main_menu ul.menu-dropdown li {
+	margin-top: 0px;
+}
+.menu_container {
+	right: 6%;
+}
+body {
+	padding-top: 150px;
+}
+@media only screen and (max-width: 991px) {
+	.menu_container ul.main_menu li {
+		margin-top: 0;
+	}
+	.menu_container ul.main_menu li.home-logo a {
+		padding: 50px 0;
+	}
+	.menu_container {
+		right: 0%;
+	}
+	.logo {
+		margin: 14px 0;
+		background-image: url('//ibogaineclinic.com/wp-content/uploads/2016/08/Logo-Version-3-small.png');
+		background-repeat: no-repeat;
+		background-position: left;
+		background-size: contain;
+		padding: 0px 100px;
+		font-size: 0px;
+	}
+}
+.header .topbar .container {
+	border-bottom: 0;
+}
